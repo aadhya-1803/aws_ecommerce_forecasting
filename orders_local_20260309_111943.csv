@@ -1,0 +1,501 @@
+order_id,customer_id,customer_name,city,state,category,product_name,quantity,unit_price,discount_pct,discount_amount,total_amount,payment_method,order_status,order_date,order_time,order_hour,order_month
+ORD-100000,CUST-8374,Gaurav Varty,Lucknow,Assam,Books,Data Science Guide,1,712.89,0,0.0,712.89,Net Banking,Shipped,2026-02-14,18:29:34,18,2026-02
+ORD-100001,CUST-6909,Damini Oak,Chennai,Meghalaya,Electronics,Webcam HD,3,5573.54,0,0.0,16720.62,Cash on Delivery,Processing,2026-03-06,16:22:11,16,2026-03
+ORD-100002,CUST-6462,Saumya Kari,Indore,West Bengal,Beauty,Face Moisturizer,1,811.55,0,0.0,811.55,Cash on Delivery,Shipped,2026-02-28,15:35:22,15,2026-02
+ORD-100003,CUST-9005,Frado Tiwari,Indore,Assam,Electronics,Webcam HD,4,3517.8,0,0.0,14071.2,Credit Card,Cancelled,2026-02-23,04:40:34,4,2026-02
+ORD-100004,CUST-1653,George Ramanathan,Kolkata,Jharkhand,Home & Kitchen,Air Fryer,3,4568.82,0,0.0,13706.46,Net Banking,Shipped,2026-02-26,12:28:10,12,2026-02
+ORD-100005,CUST-2042,Varenya Keer,Kolkata,Goa,Clothing,Denim Jeans,4,1917.85,0,0.0,7671.4,Debit Card,Delivered,2026-02-27,09:00:15,9,2026-02
+ORD-100006,CUST-6414,Zashil Mahal,Chennai,Uttar Pradesh,Beauty,Sunscreen SPF50,5,875.45,0,0.0,4377.25,Debit Card,Cancelled,2026-02-10,13:21:37,13,2026-02
+ORD-100007,CUST-9526,Ikshita Pillay,Indore,Mizoram,Home & Kitchen,Dinner Set,2,4650.54,10,930.11,8370.97,UPI,Delivered,2026-02-25,14:25:09,14,2026-02
+ORD-100008,CUST-3725,Theodore Loke,Indore,Odisha,Books,Data Science Guide,2,820.32,5,82.03,1558.61,Net Banking,Cancelled,2026-02-16,16:50:46,16,2026-02
+ORD-100009,CUST-7250,Maanav Sandal,Ahmedabad,Haryana,Electronics,Laptop Stand,1,1309.41,0,0.0,1309.41,Net Banking,Shipped,2026-02-19,00:54:52,0,2026-02
+ORD-100010,CUST-7721,Joshua Uppal,Delhi,Mizoram,Beauty,Sunscreen SPF50,5,791.08,10,395.54,3559.86,Debit Card,Delivered,2026-03-03,00:00:03,0,2026-03
+ORD-100011,CUST-4810,Chandani Dixit,Pune,Madhya Pradesh,Clothing,Men's T-Shirt,2,455.79,20,182.32,729.26,Net Banking,Shipped,2026-02-22,10:07:21,10,2026-02
+ORD-100012,CUST-9251,Brijesh Mangat,Indore,Tamil Nadu,Beauty,Sunscreen SPF50,4,477.7,10,191.08,1719.72,Net Banking,Delivered,2026-02-15,10:29:24,10,2026-02
+ORD-100013,CUST-9383,Niharika Kari,Jaipur,Andhra Pradesh,Home & Kitchen,Air Fryer,2,6184.12,0,0.0,12368.24,Credit Card,Cancelled,2026-03-07,04:02:00,4,2026-03
+ORD-100014,CUST-2698,Daksh Yadav,Jaipur,Andhra Pradesh,Clothing,Casual Sneakers,5,3998.01,15,2998.51,16991.54,Credit Card,Delivered,2026-02-08,13:21:34,13,2026-02
+ORD-100015,CUST-8315,Ishaan Saraf,Ahmedabad,Goa,Clothing,Women's Kurti,4,904.14,20,723.31,2893.25,UPI,Delivered,2026-02-14,19:32:42,19,2026-02
+ORD-100016,CUST-7678,Michael Borde,Lucknow,Sikkim,Clothing,Women's Kurti,5,538.97,0,0.0,2694.85,Credit Card,Processing,2026-02-18,13:25:14,13,2026-02
+ORD-100017,CUST-2857,Wahab Gade,Jaipur,Maharashtra,Home & Kitchen,Coffee Mug Set,5,418.13,0,0.0,2090.65,Debit Card,Delivered,2026-02-28,05:40:17,5,2026-02
+ORD-100018,CUST-6687,Faraj Sami,Kolkata,Maharashtra,Clothing,Sports Shoes,5,4352.28,0,0.0,21761.4,Credit Card,Delivered,2026-03-07,22:40:46,22,2026-03
+ORD-100019,CUST-3852,Kamala Mittal,Delhi,Rajasthan,Electronics,Wireless Earbuds,1,3441.67,5,172.08,3269.59,Credit Card,Delivered,2026-03-05,13:43:58,13,2026-03
+ORD-100020,CUST-3406,Amaira Khalsa,Surat,Assam,Beauty,Shampoo 400ml,4,633.67,0,0.0,2534.68,Cash on Delivery,Shipped,2026-03-07,00:02:38,0,2026-03
+ORD-100021,CUST-8326,Joshua Goel,Ahmedabad,West Bengal,Beauty,Lip Balm Pack,5,204.46,5,51.12,971.18,Debit Card,Shipped,2026-02-13,11:22:28,11,2026-02
+ORD-100022,CUST-3992,Chaitanya Wadhwa,Indore,Madhya Pradesh,Home & Kitchen,Non-stick Pan,2,2470.76,20,988.3,3953.22,Debit Card,Delivered,2026-02-22,16:25:37,16,2026-02
+ORD-100023,CUST-3003,Ikshita Mander,Surat,Assam,Books,Data Science Guide,5,727.95,0,0.0,3639.75,Net Banking,Processing,2026-02-11,17:07:18,17,2026-02
+ORD-100024,CUST-4763,Nitesh Sinha,Pune,Manipur,Home & Kitchen,Non-stick Pan,3,2113.8,10,634.14,5707.26,Debit Card,Cancelled,2026-03-01,00:09:47,0,2026-03
+ORD-100025,CUST-7647,Jacob Ramesh,Mumbai,Gujarat,Books,Self Help Book,5,423.97,0,0.0,2119.85,Credit Card,Shipped,2026-02-18,00:21:23,0,2026-02
+ORD-100026,CUST-6092,Chakradhar Basu,Visakhapatnam,Sikkim,Clothing,Denim Jeans,4,3006.05,0,0.0,12024.2,UPI,Cancelled,2026-02-22,16:59:26,16,2026-02
+ORD-100027,CUST-8739,Bahadurjit Taneja,Pune,Himachal Pradesh,Beauty,Sunscreen SPF50,3,348.97,0,0.0,1046.91,Cash on Delivery,Delivered,2026-03-09,04:54:52,4,2026-03
+ORD-100028,CUST-4100,Wriddhish Puri,Chennai,Haryana,Beauty,Shampoo 400ml,3,283.86,15,127.74,723.84,Credit Card,Processing,2026-03-09,03:17:20,3,2026-03
+ORD-100029,CUST-7086,Jack Bhavsar,Surat,Rajasthan,Clothing,Men's T-Shirt,1,325.76,0,0.0,325.76,Cash on Delivery,Delivered,2026-03-07,01:19:38,1,2026-03
+ORD-100030,CUST-1963,Pooja Dewan,Surat,Kerala,Electronics,USB-C Charger,4,1224.06,15,734.44,4161.8,Debit Card,Delivered,2026-02-18,05:20:07,5,2026-02
+ORD-100031,CUST-7685,Ijaya Mangat,Lucknow,Chhattisgarh,Electronics,Laptop Stand,2,1242.07,20,496.83,1987.31,UPI,Delivered,2026-02-12,04:44:58,4,2026-02
+ORD-100032,CUST-5390,Vincent Oommen,Nagpur,Telangana,Home & Kitchen,Steel Water Bottle,2,444.56,0,0.0,889.12,UPI,Cancelled,2026-02-18,19:47:51,19,2026-02
+ORD-100033,CUST-5871,Anay More,Pune,Meghalaya,Home & Kitchen,Coffee Mug Set,4,678.55,15,407.13,2307.07,Net Banking,Cancelled,2026-02-07,19:40:54,19,2026-02
+ORD-100034,CUST-5212,Bhavna Sanghvi,Pune,Jharkhand,Books,Fiction Novel,4,456.69,15,274.01,1552.75,Net Banking,Delivered,2026-02-25,02:13:05,2,2026-02
+ORD-100035,CUST-3435,Megha Ganesan,Delhi,Assam,Electronics,Wireless Earbuds,5,4543.55,0,0.0,22717.75,Cash on Delivery,Delivered,2026-02-10,06:12:18,6,2026-02
+ORD-100036,CUST-2182,Fitan Borde,Mumbai,Assam,Home & Kitchen,Steel Water Bottle,2,442.19,0,0.0,884.38,Debit Card,Shipped,2026-02-15,15:59:28,15,2026-02
+ORD-100037,CUST-3423,Zashil Wali,Visakhapatnam,Madhya Pradesh,Electronics,Laptop Stand,4,2408.68,0,0.0,9634.72,Cash on Delivery,Shipped,2026-02-14,12:23:03,12,2026-02
+ORD-100038,CUST-8236,Urvashi Parsa,Indore,Kerala,Beauty,Face Moisturizer,3,635.71,20,381.43,1525.7,Net Banking,Delivered,2026-02-20,16:12:58,16,2026-02
+ORD-100039,CUST-6070,Aashi Kumar,Mumbai,Assam,Clothing,Women's Kurti,4,1750.56,20,1400.45,5601.79,Cash on Delivery,Delivered,2026-02-26,02:09:02,2,2026-02
+ORD-100040,CUST-4220,Inaya Wable,Bengaluru,Haryana,Home & Kitchen,Dinner Set,3,3550.86,0,0.0,10652.58,Net Banking,Processing,2026-02-16,06:24:50,6,2026-02
+ORD-100041,CUST-2107,George Natt,Hyderabad,Bihar,Beauty,Sunscreen SPF50,1,336.84,0,0.0,336.84,Debit Card,Delivered,2026-03-08,06:26:31,6,2026-03
+ORD-100042,CUST-7913,Alexander Mall,Kolkata,Karnataka,Clothing,Men's T-Shirt,4,673.32,10,269.33,2423.95,Net Banking,Delivered,2026-02-17,23:05:09,23,2026-02
+ORD-100043,CUST-5443,Raagini Trivedi,Jaipur,Nagaland,Books,Self Help Book,5,442.15,0,0.0,2210.75,Debit Card,Delivered,2026-02-24,21:39:41,21,2026-02
+ORD-100044,CUST-6064,Ishaan Sani,Nagpur,Jharkhand,Clothing,Women's Kurti,1,1368.15,0,0.0,1368.15,Cash on Delivery,Shipped,2026-02-26,20:45:02,20,2026-02
+ORD-100045,CUST-3264,Akshay Keer,Hyderabad,West Bengal,Books,Self Help Book,5,405.14,15,303.85,1721.85,Cash on Delivery,Delivered,2026-02-10,11:42:03,11,2026-02
+ORD-100046,CUST-7425,Ekapad Zachariah,Lucknow,Gujarat,Home & Kitchen,Non-stick Pan,5,2117.21,0,0.0,10586.05,UPI,Delivered,2026-02-10,14:40:02,14,2026-02
+ORD-100047,CUST-9998,Aishani Vala,Delhi,Chhattisgarh,Electronics,Wireless Earbuds,1,2855.5,0,0.0,2855.5,Debit Card,Shipped,2026-02-28,13:58:41,13,2026-02
+ORD-100048,CUST-1920,Yashasvi Kapur,Visakhapatnam,Meghalaya,Electronics,Phone Case,3,354.4,5,53.16,1010.04,Credit Card,Delivered,2026-02-28,03:16:47,3,2026-02
+ORD-100049,CUST-1654,George Parikh,Jaipur,Rajasthan,Home & Kitchen,Dinner Set,4,2685.34,0,0.0,10741.36,Cash on Delivery,Delivered,2026-03-04,16:55:24,16,2026-03
+ORD-100050,CUST-2901,Suhani Dhar,Hyderabad,Uttar Pradesh,Home & Kitchen,Non-stick Pan,5,897.85,10,448.93,4040.32,Net Banking,Delivered,2026-03-03,08:19:30,8,2026-03
+ORD-100051,CUST-4510,Yachana Tank,Ahmedabad,Uttar Pradesh,Electronics,Wireless Earbuds,1,1929.57,20,385.91,1543.66,UPI,Delivered,2026-03-02,04:37:05,4,2026-03
+ORD-100052,CUST-5208,Ekantika Sem,Hyderabad,Tamil Nadu,Home & Kitchen,Non-stick Pan,2,714.1,0,0.0,1428.2,Credit Card,Delivered,2026-02-24,00:26:02,0,2026-02
+ORD-100053,CUST-4413,Dalaja Sandal,Jaipur,Nagaland,Beauty,Lip Balm Pack,1,262.43,10,26.24,236.19,Cash on Delivery,Delivered,2026-02-09,02:03:03,2,2026-02
+ORD-100054,CUST-3799,Girik Memon,Surat,Haryana,Clothing,Men's T-Shirt,3,415.29,10,124.59,1121.28,Cash on Delivery,Delivered,2026-02-14,10:20:27,10,2026-02
+ORD-100055,CUST-2509,Veda Magar,Pune,Maharashtra,Clothing,Sports Shoes,5,4378.41,0,0.0,21892.05,Credit Card,Delivered,2026-02-11,18:41:54,18,2026-02
+ORD-100056,CUST-5470,Urmi Sehgal,Hyderabad,Meghalaya,Electronics,Wireless Earbuds,4,1643.7,5,328.74,6246.06,Net Banking,Delivered,2026-02-08,03:53:39,3,2026-02
+ORD-100057,CUST-5106,Meera Prabhakar,Chennai,Meghalaya,Electronics,Wireless Earbuds,2,4442.75,20,1777.1,7108.4,UPI,Delivered,2026-02-14,00:01:21,0,2026-02
+ORD-100058,CUST-4811,Charita Bava,Bhopal,Sikkim,Clothing,Women's Kurti,1,1997.79,10,199.78,1798.01,UPI,Processing,2026-03-07,16:07:12,16,2026-03
+ORD-100059,CUST-8214,Ekantika Bir,Mumbai,Sikkim,Books,Self Help Book,2,357.25,5,35.73,678.77,Debit Card,Delivered,2026-02-24,14:39:11,14,2026-02
+ORD-100060,CUST-7944,Abhiram Varghese,Bhopal,Odisha,Clothing,Denim Jeans,2,2545.49,0,0.0,5090.98,Net Banking,Cancelled,2026-02-17,00:55:20,0,2026-02
+ORD-100061,CUST-8279,Inaya Chauhan,Bengaluru,Himachal Pradesh,Clothing,Sports Shoes,2,5217.6,15,1565.28,8869.92,Credit Card,Delivered,2026-02-17,08:40:10,8,2026-02
+ORD-100062,CUST-5062,Krishna Shan,Chennai,Telangana,Beauty,Sunscreen SPF50,4,846.53,10,338.61,3047.51,UPI,Delivered,2026-02-23,10:47:59,10,2026-02
+ORD-100063,CUST-5927,Saanvi Panchal,Jaipur,Meghalaya,Books,Fiction Novel,3,350.58,0,0.0,1051.74,Net Banking,Delivered,2026-02-27,22:58:32,22,2026-02
+ORD-100064,CUST-8824,Yadavi Mital,Mumbai,Madhya Pradesh,Clothing,Denim Jeans,3,2799.0,0,0.0,8397.0,UPI,Delivered,2026-03-07,14:11:46,14,2026-03
+ORD-100065,CUST-1129,Tanveer Dugar,Chennai,Himachal Pradesh,Electronics,Laptop Stand,4,1129.97,5,225.99,4293.89,Debit Card,Delivered,2026-03-03,14:44:27,14,2026-03
+ORD-100066,CUST-7481,Christopher Tandon,Bengaluru,Jharkhand,Beauty,Lip Balm Pack,1,272.73,0,0.0,272.73,Debit Card,Cancelled,2026-03-03,10:02:11,10,2026-03
+ORD-100067,CUST-3104,Ekalinga Chokshi,Jaipur,Punjab,Clothing,Casual Sneakers,4,3089.58,0,0.0,12358.32,Net Banking,Processing,2026-02-11,07:33:46,7,2026-02
+ORD-100068,CUST-1353,Sai Sarin,Ahmedabad,Nagaland,Beauty,Lip Balm Pack,1,250.92,5,12.55,238.37,Credit Card,Cancelled,2026-02-13,18:45:08,18,2026-02
+ORD-100069,CUST-3387,Radhika Ramachandran,Delhi,Tripura,Beauty,Shampoo 400ml,4,528.86,20,423.09,1692.35,UPI,Processing,2026-02-26,13:56:06,13,2026-02
+ORD-100070,CUST-2096,Qasim Thaker,Jaipur,Goa,Clothing,Sports Shoes,5,5145.54,5,1286.38,24441.32,Credit Card,Shipped,2026-02-08,22:12:40,22,2026-02
+ORD-100071,CUST-5467,Reva Naidu,Hyderabad,Gujarat,Home & Kitchen,Non-stick Pan,1,1835.23,0,0.0,1835.23,Net Banking,Delivered,2026-03-06,07:05:51,7,2026-03
+ORD-100072,CUST-7812,Yamini Chandran,Indore,Manipur,Beauty,Sunscreen SPF50,3,856.89,0,0.0,2570.67,UPI,Cancelled,2026-02-19,21:29:41,21,2026-02
+ORD-100073,CUST-4338,Niharika Ram,Surat,Nagaland,Clothing,Men's T-Shirt,4,871.06,5,174.21,3310.03,Cash on Delivery,Shipped,2026-03-01,06:39:52,6,2026-03
+ORD-100074,CUST-2850,Onveer Apte,Delhi,Uttar Pradesh,Beauty,Shampoo 400ml,3,491.08,10,147.32,1325.92,Credit Card,Cancelled,2026-02-20,10:38:48,10,2026-02
+ORD-100075,CUST-1629,Avni Bains,Surat,Manipur,Books,Fiction Novel,3,577.04,10,173.11,1558.01,Credit Card,Shipped,2026-03-03,09:39:21,9,2026-03
+ORD-100076,CUST-3790,Saumya Roy,Lucknow,Himachal Pradesh,Electronics,Webcam HD,4,3197.11,20,2557.69,10230.75,Debit Card,Cancelled,2026-02-27,08:57:01,8,2026-02
+ORD-100077,CUST-4623,Quincy Bora,Pune,Punjab,Beauty,Lip Balm Pack,3,278.5,0,0.0,835.5,Debit Card,Cancelled,2026-02-27,11:08:55,11,2026-02
+ORD-100078,CUST-3609,Vedika Acharya,Mumbai,Chhattisgarh,Books,Self Help Book,2,330.52,15,99.16,561.88,UPI,Shipped,2026-03-02,14:47:42,14,2026-03
+ORD-100079,CUST-5398,Abhiram Bava,Indore,Sikkim,Books,Python Programming,3,629.18,0,0.0,1887.54,Credit Card,Delivered,2026-02-11,15:10:35,15,2026-02
+ORD-100080,CUST-8685,Daksha Tripathi,Delhi,Madhya Pradesh,Home & Kitchen,Air Fryer,1,3627.7,0,0.0,3627.7,Credit Card,Shipped,2026-03-07,03:36:22,3,2026-03
+ORD-100081,CUST-3755,Patrick Rajan,Mumbai,Uttar Pradesh,Books,Self Help Book,4,679.04,5,135.81,2580.35,Credit Card,Shipped,2026-02-18,03:21:24,3,2026-02
+ORD-100082,CUST-8069,Geetika Chopra,Kolkata,Maharashtra,Home & Kitchen,Coffee Mug Set,2,736.38,0,0.0,1472.76,Debit Card,Processing,2026-02-08,08:31:07,8,2026-02
+ORD-100083,CUST-4191,Ishaan Buch,Chennai,Punjab,Home & Kitchen,Non-stick Pan,4,1149.07,20,919.26,3677.02,Net Banking,Processing,2026-03-01,10:58:00,10,2026-03
+ORD-100084,CUST-9742,Harshil Sathe,Chennai,Arunachal Pradesh,Electronics,Phone Case,4,690.08,15,414.05,2346.27,Cash on Delivery,Processing,2026-02-14,04:46:54,4,2026-02
+ORD-100085,CUST-4034,Turvi Ahluwalia,Chennai,Karnataka,Beauty,Face Moisturizer,5,445.3,0,0.0,2226.5,Debit Card,Delivered,2026-02-07,23:34:07,23,2026-02
+ORD-100086,CUST-3044,Sneha Wali,Lucknow,Rajasthan,Books,Data Science Guide,3,634.87,0,0.0,1904.61,UPI,Processing,2026-02-28,11:21:15,11,2026-02
+ORD-100087,CUST-8777,Ayaan Shere,Surat,Karnataka,Electronics,USB-C Charger,3,817.33,0,0.0,2451.99,Credit Card,Cancelled,2026-03-03,03:12:17,3,2026-03
+ORD-100088,CUST-7038,Manbir Narula,Lucknow,Odisha,Electronics,USB-C Charger,1,1496.05,10,149.6,1346.45,Cash on Delivery,Delivered,2026-03-02,16:00:26,16,2026-03
+ORD-100089,CUST-5079,Lajita Comar,Mumbai,Bihar,Clothing,Casual Sneakers,2,2905.95,0,0.0,5811.9,Cash on Delivery,Delivered,2026-03-07,17:27:55,17,2026-03
+ORD-100090,CUST-3566,Hema Chaudry,Surat,Odisha,Clothing,Casual Sneakers,2,1424.64,10,284.93,2564.35,Credit Card,Delivered,2026-03-07,13:42:11,13,2026-03
+ORD-100091,CUST-1023,Arya Morar,Visakhapatnam,Punjab,Home & Kitchen,Air Fryer,2,3345.24,10,669.05,6021.43,Net Banking,Delivered,2026-02-26,13:28:27,13,2026-02
+ORD-100092,CUST-9830,Ishanvi Wali,Chennai,Goa,Beauty,Sunscreen SPF50,4,581.28,5,116.26,2208.86,Cash on Delivery,Delivered,2026-03-07,19:59:10,19,2026-03
+ORD-100093,CUST-1241,Pahal Bhatt,Indore,Goa,Books,Fiction Novel,1,406.23,5,20.31,385.92,Credit Card,Cancelled,2026-02-16,21:46:09,21,2026-02
+ORD-100094,CUST-8182,Abhiram Roy,Kolkata,Sikkim,Clothing,Men's T-Shirt,4,304.3,0,0.0,1217.2,Credit Card,Delivered,2026-03-02,07:31:54,7,2026-03
+ORD-100095,CUST-5369,Anirudh Peri,Delhi,Rajasthan,Beauty,Shampoo 400ml,2,543.7,0,0.0,1087.4,Net Banking,Cancelled,2026-02-27,17:29:34,17,2026-02
+ORD-100096,CUST-4994,Vrinda Sarma,Lucknow,Goa,Beauty,Sunscreen SPF50,3,746.11,5,111.92,2126.41,Credit Card,Cancelled,2026-02-16,03:01:01,3,2026-02
+ORD-100097,CUST-8321,Jack Menon,Hyderabad,Uttarakhand,Clothing,Women's Kurti,5,705.53,0,0.0,3527.65,UPI,Processing,2026-02-19,10:27:09,10,2026-02
+ORD-100098,CUST-5312,Kiaan Thakkar,Visakhapatnam,Punjab,Books,Self Help Book,4,612.14,0,0.0,2448.56,Cash on Delivery,Delivered,2026-02-22,08:32:53,8,2026-02
+ORD-100099,CUST-6000,Panini Parekh,Chennai,Rajasthan,Clothing,Sports Shoes,5,5856.1,5,1464.03,27816.47,Credit Card,Delivered,2026-02-22,18:30:09,18,2026-02
+ORD-100100,CUST-1899,Jeevika Ram,Hyderabad,Tripura,Books,Self Help Book,2,366.28,10,73.26,659.3,Credit Card,Shipped,2026-02-26,18:42:24,18,2026-02
+ORD-100101,CUST-3619,Yauvani Chada,Lucknow,Meghalaya,Beauty,Sunscreen SPF50,3,374.52,15,168.53,955.03,UPI,Cancelled,2026-02-10,11:09:29,11,2026-02
+ORD-100102,CUST-6363,Inaya Rana,Jaipur,Meghalaya,Electronics,Wireless Earbuds,3,2122.18,5,318.33,6048.21,Credit Card,Delivered,2026-02-18,14:12:15,14,2026-02
+ORD-100103,CUST-2403,Ikbal Edwin,Visakhapatnam,Uttar Pradesh,Books,Self Help Book,1,589.01,5,29.45,559.56,Cash on Delivery,Shipped,2026-03-02,19:55:40,19,2026-03
+ORD-100104,CUST-2456,Isaiah Baral,Bengaluru,Himachal Pradesh,Books,Data Science Guide,3,536.86,0,0.0,1610.58,UPI,Cancelled,2026-02-24,02:22:38,2,2026-02
+ORD-100105,CUST-6341,Chameli Shere,Nagpur,Chhattisgarh,Clothing,Women's Kurti,3,1320.06,0,0.0,3960.18,Net Banking,Delivered,2026-02-25,00:14:15,0,2026-02
+ORD-100106,CUST-6620,Ishaan Gour,Bengaluru,Uttar Pradesh,Books,Fiction Novel,4,411.18,0,0.0,1644.72,Debit Card,Delivered,2026-03-07,07:39:32,7,2026-03
+ORD-100107,CUST-6382,Vidhi Hora,Surat,Gujarat,Beauty,Shampoo 400ml,1,655.77,0,0.0,655.77,Debit Card,Cancelled,2026-02-11,09:43:13,9,2026-02
+ORD-100108,CUST-6213,Alexander Ramachandran,Hyderabad,Punjab,Beauty,Face Moisturizer,5,513.09,0,0.0,2565.45,Credit Card,Delivered,2026-02-23,20:32:26,20,2026-02
+ORD-100109,CUST-3437,Oscar Lad,Bengaluru,Assam,Clothing,Casual Sneakers,3,4222.05,0,0.0,12666.15,UPI,Shipped,2026-03-07,19:02:46,19,2026-03
+ORD-100110,CUST-7321,Ekiya Basak,Hyderabad,Odisha,Beauty,Lip Balm Pack,4,261.34,0,0.0,1045.36,Net Banking,Delivered,2026-03-06,13:15:22,13,2026-03
+ORD-100111,CUST-3975,Ayushman Bhatti,Surat,Uttarakhand,Home & Kitchen,Dinner Set,1,2227.56,5,111.38,2116.18,UPI,Cancelled,2026-02-11,19:19:35,19,2026-02
+ORD-100112,CUST-7895,Tanvi Sandal,Hyderabad,Tamil Nadu,Books,Fiction Novel,1,266.73,20,53.35,213.38,UPI,Processing,2026-02-15,05:45:30,5,2026-02
+ORD-100113,CUST-4349,Rehaan Krish,Nagpur,Odisha,Beauty,Face Moisturizer,5,990.37,10,495.19,4456.66,Cash on Delivery,Cancelled,2026-02-16,01:19:58,1,2026-02
+ORD-100114,CUST-1373,Baghyawati Jhaveri,Lucknow,Rajasthan,Home & Kitchen,Steel Water Bottle,3,602.28,0,0.0,1806.84,Credit Card,Delivered,2026-02-18,06:22:09,6,2026-02
+ORD-100115,CUST-9481,Yashica Chana,Chennai,Maharashtra,Beauty,Shampoo 400ml,5,290.13,15,217.6,1233.05,Credit Card,Processing,2026-03-05,20:46:49,20,2026-03
+ORD-100116,CUST-4642,Vrishti Dugar,Pune,Mizoram,Clothing,Sports Shoes,2,5479.13,10,1095.83,9862.43,Credit Card,Delivered,2026-03-06,23:25:15,23,2026-03
+ORD-100117,CUST-7422,Vansha Bhavsar,Kolkata,Arunachal Pradesh,Beauty,Sunscreen SPF50,5,362.04,5,90.51,1719.69,Credit Card,Delivered,2026-02-23,20:46:38,20,2026-02
+ORD-100118,CUST-9259,Aditya Ranganathan,Delhi,Goa,Home & Kitchen,Air Fryer,2,4624.92,15,1387.48,7862.36,Net Banking,Cancelled,2026-02-22,05:13:16,5,2026-02
+ORD-100119,CUST-5368,Nikita Viswanathan,Indore,Jharkhand,Books,Data Science Guide,4,986.6,20,789.28,3157.12,Credit Card,Delivered,2026-02-12,21:51:05,21,2026-02
+ORD-100120,CUST-6715,Yashasvi Goswami,Indore,West Bengal,Home & Kitchen,Air Fryer,1,3149.61,0,0.0,3149.61,Credit Card,Cancelled,2026-02-23,03:32:41,3,2026-02
+ORD-100121,CUST-1120,Nachiket Khalsa,Visakhapatnam,Andhra Pradesh,Books,Fiction Novel,1,474.07,5,23.7,450.37,UPI,Processing,2026-02-26,11:26:38,11,2026-02
+ORD-100122,CUST-2073,Irya Butala,Lucknow,Arunachal Pradesh,Home & Kitchen,Air Fryer,2,7074.71,10,1414.94,12734.48,Debit Card,Shipped,2026-02-09,16:25:58,16,2026-02
+ORD-100123,CUST-5876,Mugdha Dara,Indore,Andhra Pradesh,Beauty,Lip Balm Pack,2,302.91,10,60.58,545.24,Credit Card,Processing,2026-03-01,04:48:53,4,2026-03
+ORD-100124,CUST-8681,Sanaya Raju,Indore,Uttarakhand,Home & Kitchen,Dinner Set,2,4528.55,5,452.86,8604.24,Cash on Delivery,Shipped,2026-02-12,07:33:53,7,2026-02
+ORD-100125,CUST-5452,Watika Dyal,Pune,Uttar Pradesh,Beauty,Shampoo 400ml,5,696.02,5,174.0,3306.1,Net Banking,Processing,2026-03-01,08:19:33,8,2026-03
+ORD-100126,CUST-3441,Jagvi Seth,Hyderabad,Telangana,Books,Python Programming,3,673.5,5,101.03,1919.47,Debit Card,Cancelled,2026-02-24,19:44:14,19,2026-02
+ORD-100127,CUST-2705,Tamanna De,Chennai,Odisha,Beauty,Shampoo 400ml,5,382.01,5,95.5,1814.55,Net Banking,Cancelled,2026-02-16,00:23:27,0,2026-02
+ORD-100128,CUST-6034,Netra Shan,Surat,Tamil Nadu,Beauty,Shampoo 400ml,1,321.12,5,16.06,305.06,Debit Card,Cancelled,2026-03-03,23:44:10,23,2026-03
+ORD-100129,CUST-9431,Girik Krishna,Chennai,Goa,Books,Data Science Guide,4,605.97,10,242.39,2181.49,Cash on Delivery,Delivered,2026-03-07,16:12:54,16,2026-03
+ORD-100130,CUST-3329,Prisha Arora,Surat,Maharashtra,Clothing,Casual Sneakers,1,4169.02,15,625.35,3543.67,UPI,Processing,2026-02-28,19:18:55,19,2026-02
+ORD-100131,CUST-4883,Vamakshi Kannan,Delhi,Bihar,Electronics,Webcam HD,2,4362.36,0,0.0,8724.72,Credit Card,Delivered,2026-02-26,10:43:51,10,2026-02
+ORD-100132,CUST-9596,Yashasvi Solanki,Delhi,Assam,Clothing,Sports Shoes,4,4572.34,10,1828.94,16460.42,Debit Card,Shipped,2026-02-07,16:14:33,16,2026-02
+ORD-100133,CUST-4280,Charan Khurana,Visakhapatnam,Sikkim,Books,Fiction Novel,2,324.13,0,0.0,648.26,Debit Card,Delivered,2026-02-26,00:48:37,0,2026-02
+ORD-100134,CUST-1678,Upadhriti Deep,Chennai,Telangana,Clothing,Casual Sneakers,4,2862.95,5,572.59,10879.21,UPI,Cancelled,2026-03-06,06:42:24,6,2026-03
+ORD-100135,CUST-2734,Nathan Dave,Visakhapatnam,Odisha,Home & Kitchen,Non-stick Pan,3,1764.45,0,0.0,5293.35,Credit Card,Processing,2026-02-18,21:49:18,21,2026-02
+ORD-100136,CUST-2034,Janya Varghese,Indore,Odisha,Beauty,Shampoo 400ml,3,281.94,0,0.0,845.82,Cash on Delivery,Processing,2026-03-03,04:01:18,4,2026-03
+ORD-100137,CUST-7923,Gaurangi Malhotra,Hyderabad,Punjab,Beauty,Face Moisturizer,1,531.65,15,79.75,451.9,Net Banking,Processing,2026-02-25,16:39:31,16,2026-02
+ORD-100138,CUST-8590,Vedant Pandit,Bhopal,Assam,Clothing,Casual Sneakers,5,1346.7,5,336.68,6396.82,UPI,Cancelled,2026-02-19,11:53:09,11,2026-02
+ORD-100139,CUST-8247,Sai Sankaran,Kolkata,Assam,Clothing,Sports Shoes,3,3536.58,0,0.0,10609.74,Credit Card,Processing,2026-02-15,23:50:41,23,2026-02
+ORD-100140,CUST-5751,Teerth Bala,Jaipur,Himachal Pradesh,Beauty,Shampoo 400ml,1,562.73,0,0.0,562.73,UPI,Processing,2026-02-09,11:44:04,11,2026-02
+ORD-100141,CUST-3157,Urishilla Bera,Mumbai,Odisha,Clothing,Casual Sneakers,2,2662.61,15,798.78,4526.44,Debit Card,Delivered,2026-02-23,22:58:52,22,2026-02
+ORD-100142,CUST-1833,Indali Buch,Hyderabad,Haryana,Books,Data Science Guide,4,998.79,0,0.0,3995.16,UPI,Delivered,2026-02-18,00:29:42,0,2026-02
+ORD-100143,CUST-9188,Rudra Singhal,Kolkata,Manipur,Books,Fiction Novel,4,568.67,5,113.73,2160.95,Cash on Delivery,Delivered,2026-02-11,17:12:24,17,2026-02
+ORD-100144,CUST-9565,Nikita Krishna,Delhi,Chhattisgarh,Home & Kitchen,Coffee Mug Set,5,989.51,20,989.51,3958.04,Debit Card,Delivered,2026-03-03,22:39:20,22,2026-03
+ORD-100145,CUST-1830,Upma Kala,Lucknow,Andhra Pradesh,Books,Python Programming,1,785.12,0,0.0,785.12,Net Banking,Cancelled,2026-03-04,07:25:41,7,2026-03
+ORD-100146,CUST-1958,Kala Biswas,Ahmedabad,Andhra Pradesh,Books,Self Help Book,3,642.75,15,289.24,1639.01,UPI,Delivered,2026-02-23,20:13:33,20,2026-02
+ORD-100147,CUST-7817,William Manda,Ahmedabad,Telangana,Clothing,Denim Jeans,3,3032.76,5,454.91,8643.37,Debit Card,Cancelled,2026-02-22,12:42:12,12,2026-02
+ORD-100148,CUST-7321,Tanay Hayer,Bengaluru,Assam,Clothing,Denim Jeans,2,2662.3,0,0.0,5324.6,Net Banking,Processing,2026-02-21,08:24:52,8,2026-02
+ORD-100149,CUST-1175,Vrinda Kata,Mumbai,Mizoram,Home & Kitchen,Coffee Mug Set,4,868.33,0,0.0,3473.32,UPI,Delivered,2026-02-19,11:25:53,11,2026-02
+ORD-100150,CUST-4255,Raagini Mangal,Indore,Bihar,Electronics,USB-C Charger,1,866.17,0,0.0,866.17,Debit Card,Shipped,2026-02-14,13:58:59,13,2026-02
+ORD-100151,CUST-1586,Jatin Goel,Mumbai,Tamil Nadu,Clothing,Casual Sneakers,1,3451.92,20,690.38,2761.54,Net Banking,Shipped,2026-03-08,18:16:21,18,2026-03
+ORD-100152,CUST-8229,Mitali Grover,Surat,Madhya Pradesh,Clothing,Casual Sneakers,5,1597.32,15,1197.99,6788.61,Credit Card,Shipped,2026-03-05,15:57:55,15,2026-03
+ORD-100153,CUST-1330,Harshil Prabhakar,Ahmedabad,Mizoram,Electronics,USB-C Charger,5,1003.56,0,0.0,5017.8,Cash on Delivery,Delivered,2026-02-14,04:06:53,4,2026-02
+ORD-100154,CUST-5004,Om Keer,Indore,Haryana,Clothing,Casual Sneakers,2,2008.49,0,0.0,4016.98,Net Banking,Processing,2026-02-10,04:04:42,4,2026-02
+ORD-100155,CUST-7092,Tanish Chatterjee,Visakhapatnam,Telangana,Electronics,Bluetooth Speaker,5,4649.02,0,0.0,23245.1,Net Banking,Processing,2026-03-01,03:40:57,3,2026-03
+ORD-100156,CUST-4230,Hardik Ahluwalia,Indore,Goa,Home & Kitchen,Air Fryer,3,7844.74,5,1176.71,22357.51,Credit Card,Shipped,2026-03-04,14:47:18,14,2026-03
+ORD-100157,CUST-6623,Samesh Tara,Bhopal,Manipur,Clothing,Sports Shoes,3,2235.14,10,670.54,6034.88,UPI,Processing,2026-02-17,11:50:19,11,2026-02
+ORD-100158,CUST-9714,Damyanti Borra,Mumbai,Haryana,Beauty,Shampoo 400ml,3,571.71,5,85.76,1629.37,Net Banking,Delivered,2026-02-24,05:31:14,5,2026-02
+ORD-100159,CUST-7091,Damini Cheema,Bhopal,Karnataka,Clothing,Casual Sneakers,4,4263.31,20,3410.65,13642.59,Debit Card,Delivered,2026-03-09,02:04:59,2,2026-03
+ORD-100160,CUST-1971,Daksh Bumb,Surat,Assam,Beauty,Shampoo 400ml,4,697.9,10,279.16,2512.44,Cash on Delivery,Shipped,2026-03-03,04:09:44,4,2026-03
+ORD-100161,CUST-2133,Abha Ganguly,Delhi,Andhra Pradesh,Electronics,Wireless Earbuds,2,4661.11,10,932.22,8390.0,Net Banking,Cancelled,2026-02-16,22:36:26,22,2026-02
+ORD-100162,CUST-6527,Devika Bajwa,Indore,Jharkhand,Clothing,Casual Sneakers,1,4130.71,5,206.54,3924.17,Net Banking,Delivered,2026-02-19,19:28:13,19,2026-02
+ORD-100163,CUST-5185,Omaja Kade,Pune,Tamil Nadu,Home & Kitchen,Steel Water Bottle,3,746.8,15,336.06,1904.34,Net Banking,Delivered,2026-03-03,08:41:43,8,2026-03
+ORD-100164,CUST-1397,Gunbir Bhavsar,Chennai,Punjab,Electronics,USB-C Charger,1,769.41,15,115.41,654.0,Cash on Delivery,Delivered,2026-03-09,05:34:13,5,2026-03
+ORD-100165,CUST-9976,Ishaan Manda,Kolkata,Andhra Pradesh,Clothing,Sports Shoes,5,3514.92,20,3514.92,14059.68,Credit Card,Processing,2026-03-05,23:39:36,23,2026-03
+ORD-100166,CUST-3785,Kiaan Mittal,Hyderabad,Arunachal Pradesh,Clothing,Men's T-Shirt,3,902.99,5,135.45,2573.52,Debit Card,Delivered,2026-02-10,22:23:38,22,2026-02
+ORD-100167,CUST-1366,Yuvraj Mann,Chennai,Uttar Pradesh,Home & Kitchen,Steel Water Bottle,3,367.59,20,220.55,882.22,UPI,Shipped,2026-02-18,21:09:33,21,2026-02
+ORD-100168,CUST-9190,Indira Gola,Chennai,Kerala,Home & Kitchen,Air Fryer,4,6273.59,20,5018.87,20075.49,Debit Card,Delivered,2026-03-04,21:12:08,21,2026-03
+ORD-100169,CUST-7809,Divya Pradhan,Nagpur,Odisha,Books,Data Science Guide,4,603.15,0,0.0,2412.6,Debit Card,Shipped,2026-03-02,22:40:06,22,2026-03
+ORD-100170,CUST-6362,Eesha Nadkarni,Chennai,Maharashtra,Home & Kitchen,Steel Water Bottle,4,456.35,20,365.08,1460.32,Debit Card,Cancelled,2026-02-08,02:15:13,2,2026-02
+ORD-100171,CUST-8583,Gunbir Natt,Mumbai,Himachal Pradesh,Electronics,Webcam HD,2,5932.38,10,1186.48,10678.28,Credit Card,Delivered,2026-02-13,17:26:28,17,2026-02
+ORD-100172,CUST-5617,Adweta Kata,Jaipur,Andhra Pradesh,Home & Kitchen,Non-stick Pan,2,2224.17,0,0.0,4448.34,Credit Card,Shipped,2026-02-07,22:44:41,22,2026-02
+ORD-100173,CUST-5851,Charles Sastry,Mumbai,Andhra Pradesh,Books,Self Help Book,4,632.39,20,505.91,2023.65,Net Banking,Cancelled,2026-02-07,14:19:53,14,2026-02
+ORD-100174,CUST-9191,Ati Sami,Bhopal,Uttar Pradesh,Electronics,Wireless Earbuds,2,3440.41,0,0.0,6880.82,Net Banking,Delivered,2026-02-15,00:22:03,0,2026-02
+ORD-100175,CUST-7572,Zilmil Nagi,Jaipur,Goa,Books,Fiction Novel,4,343.73,0,0.0,1374.92,Cash on Delivery,Delivered,2026-02-08,16:33:34,16,2026-02
+ORD-100176,CUST-7028,Aadi Anne,Ahmedabad,Odisha,Home & Kitchen,Dinner Set,2,1793.15,0,0.0,3586.3,Credit Card,Shipped,2026-02-16,21:50:05,21,2026-02
+ORD-100177,CUST-8821,Ekantika Mukhopadhyay,Jaipur,Chhattisgarh,Home & Kitchen,Dinner Set,1,3876.09,5,193.8,3682.29,Cash on Delivery,Shipped,2026-03-02,21:50:27,21,2026-03
+ORD-100178,CUST-7538,Oviya Bhandari,Bhopal,Goa,Beauty,Face Moisturizer,3,687.82,10,206.35,1857.11,Credit Card,Shipped,2026-03-05,03:30:04,3,2026-03
+ORD-100179,CUST-5867,Widisha Balay,Lucknow,Telangana,Clothing,Denim Jeans,1,1683.55,15,252.53,1431.02,Debit Card,Shipped,2026-03-06,02:41:55,2,2026-03
+ORD-100180,CUST-8816,Ekansh Sampath,Visakhapatnam,Andhra Pradesh,Electronics,Wireless Earbuds,1,1487.6,10,148.76,1338.84,Net Banking,Delivered,2026-02-28,22:57:17,22,2026-02
+ORD-100181,CUST-7992,Bachittar Dada,Delhi,Karnataka,Beauty,Face Moisturizer,2,916.0,15,274.8,1557.2,Credit Card,Delivered,2026-02-23,17:33:21,17,2026-02
+ORD-100182,CUST-1870,Shivani Acharya,Visakhapatnam,Telangana,Clothing,Denim Jeans,5,1658.08,20,1658.08,6632.32,Credit Card,Processing,2026-03-03,23:00:24,23,2026-03
+ORD-100183,CUST-6260,Owen Kakar,Lucknow,Assam,Home & Kitchen,Coffee Mug Set,5,462.04,15,346.53,1963.67,Debit Card,Delivered,2026-02-27,03:56:23,3,2026-02
+ORD-100184,CUST-6036,Aarini Jayaraman,Jaipur,Jharkhand,Books,Data Science Guide,4,721.01,0,0.0,2884.04,Cash on Delivery,Cancelled,2026-02-14,00:07:15,0,2026-02
+ORD-100185,CUST-6553,Amrita Ravel,Kolkata,Madhya Pradesh,Home & Kitchen,Dinner Set,5,4294.92,10,2147.46,19327.14,UPI,Delivered,2026-03-03,23:26:58,23,2026-03
+ORD-100186,CUST-7013,Patrick Prashad,Surat,Madhya Pradesh,Clothing,Men's T-Shirt,4,963.36,5,192.67,3660.77,Debit Card,Delivered,2026-02-13,03:25:40,3,2026-02
+ORD-100187,CUST-8920,Akshay Barad,Lucknow,Meghalaya,Electronics,Laptop Stand,1,810.97,20,162.19,648.78,Credit Card,Processing,2026-03-07,00:02:42,0,2026-03
+ORD-100188,CUST-1249,Jairaj Lall,Ahmedabad,West Bengal,Home & Kitchen,Steel Water Bottle,1,713.7,0,0.0,713.7,Net Banking,Processing,2026-02-27,18:42:26,18,2026-02
+ORD-100189,CUST-5994,Urvashi Ganesan,Mumbai,Tripura,Home & Kitchen,Steel Water Bottle,2,462.36,0,0.0,924.72,Credit Card,Cancelled,2026-02-12,10:52:04,10,2026-02
+ORD-100190,CUST-7587,Ria Krishna,Kolkata,Haryana,Clothing,Sports Shoes,5,2308.07,20,2308.07,9232.28,UPI,Shipped,2026-03-04,18:03:56,18,2026-03
+ORD-100191,CUST-5747,Charvi Chawla,Chennai,Tripura,Electronics,Phone Case,4,726.88,0,0.0,2907.52,Credit Card,Processing,2026-02-19,18:35:31,18,2026-02
+ORD-100192,CUST-6896,Gaurika Dar,Ahmedabad,Bihar,Home & Kitchen,Air Fryer,3,6220.02,0,0.0,18660.06,Cash on Delivery,Shipped,2026-03-01,18:57:15,18,2026-03
+ORD-100193,CUST-4402,Ucchal Sengupta,Delhi,Rajasthan,Home & Kitchen,Air Fryer,3,5534.47,0,0.0,16603.41,Net Banking,Delivered,2026-02-18,13:50:20,13,2026-02
+ORD-100194,CUST-2933,Nilima Sengupta,Ahmedabad,Himachal Pradesh,Beauty,Sunscreen SPF50,4,400.3,5,80.06,1521.14,Credit Card,Shipped,2026-02-25,18:35:12,18,2026-02
+ORD-100195,CUST-6325,Utkarsh Suresh,Hyderabad,West Bengal,Electronics,Laptop Stand,1,1359.9,15,203.99,1155.91,Cash on Delivery,Delivered,2026-02-07,14:45:11,14,2026-02
+ORD-100196,CUST-1916,Dakshesh Goel,Nagpur,Madhya Pradesh,Electronics,Bluetooth Speaker,1,2477.04,10,247.7,2229.34,Cash on Delivery,Shipped,2026-02-17,15:16:50,15,2026-02
+ORD-100197,CUST-6920,Mohini Shere,Indore,Sikkim,Electronics,Wireless Earbuds,1,2857.77,0,0.0,2857.77,Debit Card,Processing,2026-02-20,01:19:54,1,2026-02
+ORD-100198,CUST-5040,Imaran Ray,Ahmedabad,Uttar Pradesh,Books,Self Help Book,1,473.12,5,23.66,449.46,Credit Card,Delivered,2026-03-04,13:37:18,13,2026-03
+ORD-100199,CUST-2366,Charles Bera,Nagpur,Manipur,Beauty,Shampoo 400ml,1,492.35,15,73.85,418.5,Cash on Delivery,Delivered,2026-02-13,13:34:22,13,2026-02
+ORD-100200,CUST-1144,Victor Chhabra,Visakhapatnam,Assam,Beauty,Lip Balm Pack,2,316.09,0,0.0,632.18,Net Banking,Shipped,2026-02-15,16:39:09,16,2026-02
+ORD-100201,CUST-7200,Tripti Doctor,Pune,Madhya Pradesh,Books,Python Programming,3,565.86,5,84.88,1612.7,Debit Card,Shipped,2026-02-13,10:01:14,10,2026-02
+ORD-100202,CUST-7439,Fariq Gour,Chennai,Gujarat,Home & Kitchen,Dinner Set,4,3687.64,0,0.0,14750.56,UPI,Delivered,2026-02-19,15:40:57,15,2026-02
+ORD-100203,CUST-6202,Udyati Merchant,Bengaluru,Mizoram,Books,Self Help Book,4,573.61,0,0.0,2294.44,UPI,Delivered,2026-02-18,19:44:07,19,2026-02
+ORD-100204,CUST-5969,Vaishnavi Rao,Pune,Karnataka,Books,Fiction Novel,5,547.44,0,0.0,2737.2,UPI,Cancelled,2026-02-23,11:23:16,11,2026-02
+ORD-100205,CUST-1060,Nidhi Kamdar,Ahmedabad,Goa,Home & Kitchen,Non-stick Pan,4,1654.45,10,661.78,5956.02,Credit Card,Processing,2026-02-24,19:18:35,19,2026-02
+ORD-100206,CUST-4869,Nitara Prashad,Lucknow,Chhattisgarh,Electronics,Webcam HD,5,3294.04,0,0.0,16470.2,Credit Card,Shipped,2026-02-10,20:51:34,20,2026-02
+ORD-100207,CUST-5611,Qadim Mannan,Bengaluru,Rajasthan,Electronics,Bluetooth Speaker,1,3256.35,10,325.63,2930.72,Cash on Delivery,Delivered,2026-02-22,23:43:28,23,2026-02
+ORD-100208,CUST-2559,Fariq Walla,Hyderabad,Tripura,Beauty,Shampoo 400ml,1,571.26,10,57.13,514.13,Net Banking,Delivered,2026-02-11,21:06:37,21,2026-02
+ORD-100209,CUST-3575,Warhi Grover,Surat,Mizoram,Beauty,Sunscreen SPF50,1,373.41,20,74.68,298.73,UPI,Delivered,2026-03-01,02:51:10,2,2026-03
+ORD-100210,CUST-3006,Andrew Bhat,Visakhapatnam,Jharkhand,Electronics,Laptop Stand,1,2188.35,0,0.0,2188.35,UPI,Shipped,2026-02-12,18:56:01,18,2026-02
+ORD-100211,CUST-9053,Saksham Memon,Mumbai,Mizoram,Books,Data Science Guide,3,711.71,20,427.03,1708.1,Credit Card,Processing,2026-02-28,02:31:08,2,2026-02
+ORD-100212,CUST-8347,Dalaja Halder,Bhopal,Sikkim,Clothing,Denim Jeans,5,2520.08,0,0.0,12600.4,UPI,Delivered,2026-02-18,07:25:30,7,2026-02
+ORD-100213,CUST-9662,Ria Mander,Hyderabad,Tripura,Clothing,Men's T-Shirt,1,845.87,20,169.17,676.7,Credit Card,Processing,2026-02-27,04:22:09,4,2026-02
+ORD-100214,CUST-5703,Januja Narayanan,Indore,Tripura,Home & Kitchen,Coffee Mug Set,4,750.19,10,300.08,2700.68,Net Banking,Shipped,2026-02-22,12:23:38,12,2026-02
+ORD-100215,CUST-7172,Janya Lad,Mumbai,Chhattisgarh,Beauty,Lip Balm Pack,2,348.2,20,139.28,557.12,Cash on Delivery,Delivered,2026-02-09,04:02:24,4,2026-02
+ORD-100216,CUST-9498,Hamsini Balakrishnan,Surat,Gujarat,Home & Kitchen,Steel Water Bottle,5,783.63,0,0.0,3918.15,Credit Card,Processing,2026-02-22,18:20:02,18,2026-02
+ORD-100217,CUST-2802,Watika Sule,Ahmedabad,Haryana,Beauty,Lip Balm Pack,5,216.89,0,0.0,1084.45,Debit Card,Shipped,2026-02-13,04:04:35,4,2026-02
+ORD-100218,CUST-6075,Krisha Kalla,Mumbai,Meghalaya,Electronics,Webcam HD,3,3846.68,20,2308.01,9232.03,Cash on Delivery,Delivered,2026-02-18,04:28:47,4,2026-02
+ORD-100219,CUST-4246,Andrew Bhat,Chennai,Tripura,Electronics,Bluetooth Speaker,4,3805.15,0,0.0,15220.6,Cash on Delivery,Delivered,2026-03-04,18:38:38,18,2026-03
+ORD-100220,CUST-1435,Balvan Mangal,Hyderabad,Meghalaya,Electronics,Wireless Earbuds,2,3817.92,5,381.79,7254.05,Cash on Delivery,Shipped,2026-02-07,13:59:18,13,2026-02
+ORD-100221,CUST-2026,Praneel Contractor,Pune,Jharkhand,Home & Kitchen,Air Fryer,3,5522.05,15,2484.92,14081.23,Net Banking,Cancelled,2026-02-15,01:53:45,1,2026-02
+ORD-100222,CUST-8271,Kai Ghosh,Visakhapatnam,Sikkim,Electronics,Bluetooth Speaker,5,2594.01,0,0.0,12970.05,Debit Card,Cancelled,2026-03-04,11:01:17,11,2026-03
+ORD-100223,CUST-7598,Imaran Kuruvilla,Delhi,Nagaland,Home & Kitchen,Air Fryer,1,3821.88,0,0.0,3821.88,Cash on Delivery,Shipped,2026-03-04,14:02:27,14,2026-03
+ORD-100224,CUST-7011,Abdul Mukhopadhyay,Bhopal,Arunachal Pradesh,Electronics,Bluetooth Speaker,4,3387.3,20,2709.84,10839.36,Credit Card,Processing,2026-02-26,06:27:03,6,2026-02
+ORD-100225,CUST-8108,Jason Hegde,Ahmedabad,Maharashtra,Clothing,Men's T-Shirt,5,900.66,5,225.16,4278.14,Credit Card,Delivered,2026-02-11,23:57:58,23,2026-02
+ORD-100226,CUST-6932,Samuel Saraf,Lucknow,Gujarat,Clothing,Casual Sneakers,4,3877.75,0,0.0,15511.0,Debit Card,Delivered,2026-02-18,15:31:09,15,2026-02
+ORD-100227,CUST-1646,Zansi Chowdhury,Kolkata,Sikkim,Home & Kitchen,Steel Water Bottle,2,372.48,15,111.74,633.22,Credit Card,Delivered,2026-02-15,08:27:18,8,2026-02
+ORD-100228,CUST-9710,Ayush Shroff,Nagpur,Chhattisgarh,Books,Data Science Guide,3,726.43,0,0.0,2179.29,Cash on Delivery,Delivered,2026-03-07,20:42:36,20,2026-03
+ORD-100229,CUST-5884,Matthew Bhagat,Delhi,Tamil Nadu,Electronics,Bluetooth Speaker,5,2148.02,0,0.0,10740.1,Credit Card,Processing,2026-03-08,16:21:34,16,2026-03
+ORD-100230,CUST-5432,Abdul Vig,Surat,Haryana,Beauty,Face Moisturizer,4,520.78,0,0.0,2083.12,UPI,Delivered,2026-02-21,06:50:22,6,2026-02
+ORD-100231,CUST-1194,Harshil Gandhi,Visakhapatnam,Tripura,Clothing,Sports Shoes,4,1534.46,0,0.0,6137.84,UPI,Shipped,2026-02-21,08:50:59,8,2026-02
+ORD-100232,CUST-7958,Azaan Chaudhary,Surat,Arunachal Pradesh,Beauty,Face Moisturizer,2,812.2,5,81.22,1543.18,UPI,Processing,2026-02-10,17:15:45,17,2026-02
+ORD-100233,CUST-4953,Ishita Korpal,Pune,Andhra Pradesh,Electronics,USB-C Charger,2,1406.82,15,422.05,2391.59,Debit Card,Delivered,2026-02-25,13:25:01,13,2026-02
+ORD-100234,CUST-8015,Bahadurjit Goel,Surat,Haryana,Electronics,Bluetooth Speaker,3,3125.31,0,0.0,9375.93,Debit Card,Processing,2026-03-05,12:51:16,12,2026-03
+ORD-100235,CUST-2311,Vedika Kibe,Mumbai,Bihar,Home & Kitchen,Steel Water Bottle,5,660.59,20,660.59,2642.36,Debit Card,Cancelled,2026-02-10,16:37:10,16,2026-02
+ORD-100236,CUST-9265,Tejas Vasa,Ahmedabad,Nagaland,Clothing,Women's Kurti,1,1640.94,15,246.14,1394.8,Credit Card,Delivered,2026-02-14,19:16:26,19,2026-02
+ORD-100237,CUST-1940,Quincy Kant,Mumbai,Meghalaya,Home & Kitchen,Steel Water Bottle,4,761.35,0,0.0,3045.4,Credit Card,Delivered,2026-02-12,10:43:39,10,2026-02
+ORD-100238,CUST-4891,Gaurav Bose,Visakhapatnam,Andhra Pradesh,Clothing,Men's T-Shirt,3,530.52,0,0.0,1591.56,UPI,Shipped,2026-02-19,00:33:18,0,2026-02
+ORD-100239,CUST-6549,Zayyan Korpal,Visakhapatnam,Punjab,Books,Python Programming,4,458.61,20,366.89,1467.55,UPI,Delivered,2026-03-02,10:28:42,10,2026-03
+ORD-100240,CUST-3358,Vamakshi Bhardwaj,Bhopal,Chhattisgarh,Home & Kitchen,Steel Water Bottle,1,744.44,20,148.89,595.55,Credit Card,Delivered,2026-03-03,10:17:38,10,2026-03
+ORD-100241,CUST-1743,Yasti Parmer,Lucknow,Sikkim,Home & Kitchen,Dinner Set,4,4138.15,5,827.63,15724.97,Credit Card,Delivered,2026-03-08,15:26:22,15,2026-03
+ORD-100242,CUST-9100,Krishna Kant,Delhi,Uttarakhand,Beauty,Face Moisturizer,5,428.27,0,0.0,2141.35,Debit Card,Delivered,2026-02-27,22:32:50,22,2026-02
+ORD-100243,CUST-3751,Nidra Choudhry,Pune,Odisha,Clothing,Women's Kurti,5,1023.32,0,0.0,5116.6,Credit Card,Cancelled,2026-02-13,06:03:46,6,2026-02
+ORD-100244,CUST-7162,Aarini Shere,Kolkata,Tamil Nadu,Home & Kitchen,Steel Water Bottle,5,432.03,0,0.0,2160.15,Credit Card,Delivered,2026-02-24,09:58:45,9,2026-02
+ORD-100245,CUST-1099,Wridesh Kara,Surat,Andhra Pradesh,Books,Fiction Novel,5,219.27,0,0.0,1096.35,Cash on Delivery,Shipped,2026-03-01,00:28:27,0,2026-03
+ORD-100246,CUST-2634,Ojasvi Prabhu,Nagpur,Sikkim,Home & Kitchen,Non-stick Pan,3,2227.0,10,668.1,6012.9,Debit Card,Shipped,2026-02-13,06:57:26,6,2026-02
+ORD-100247,CUST-1257,Lajita Sachdeva,Pune,Rajasthan,Clothing,Casual Sneakers,2,1624.52,0,0.0,3249.04,UPI,Shipped,2026-03-01,05:10:37,5,2026-03
+ORD-100248,CUST-1093,Brijesh Roy,Hyderabad,Andhra Pradesh,Clothing,Sports Shoes,3,2553.74,15,1149.18,6512.04,UPI,Delivered,2026-02-23,22:46:58,22,2026-02
+ORD-100249,CUST-1111,Qarin Dass,Pune,Telangana,Clothing,Men's T-Shirt,1,902.52,0,0.0,902.52,Cash on Delivery,Processing,2026-02-21,11:03:03,11,2026-02
+ORD-100250,CUST-1916,Vedhika De,Delhi,Chhattisgarh,Home & Kitchen,Coffee Mug Set,4,696.5,10,278.6,2507.4,UPI,Delivered,2026-02-19,22:31:35,22,2026-02
+ORD-100251,CUST-2015,Ekaja Kumar,Hyderabad,Mizoram,Clothing,Casual Sneakers,5,2615.28,10,1307.64,11768.76,Cash on Delivery,Delivered,2026-02-28,18:41:07,18,2026-02
+ORD-100252,CUST-6864,Aadi Vaidya,Jaipur,Maharashtra,Books,Python Programming,3,740.13,0,0.0,2220.39,Credit Card,Shipped,2026-02-10,11:14:01,11,2026-02
+ORD-100253,CUST-6776,Aishani Mand,Lucknow,Tamil Nadu,Books,Python Programming,3,527.79,15,237.51,1345.86,Net Banking,Cancelled,2026-03-08,04:19:21,4,2026-03
+ORD-100254,CUST-3678,Aarnav Mammen,Chennai,Manipur,Home & Kitchen,Steel Water Bottle,4,637.05,0,0.0,2548.2,UPI,Cancelled,2026-02-16,22:59:19,22,2026-02
+ORD-100255,CUST-7316,Zaitra Kaur,Nagpur,Goa,Electronics,Wireless Earbuds,2,2131.19,15,639.36,3623.02,Credit Card,Cancelled,2026-02-19,12:26:51,12,2026-02
+ORD-100256,CUST-5066,Ekapad Bhasin,Ahmedabad,West Bengal,Books,Self Help Book,3,494.45,15,222.5,1260.85,Credit Card,Cancelled,2026-02-22,03:33:00,3,2026-02
+ORD-100257,CUST-4878,Turvi Butala,Jaipur,Arunachal Pradesh,Electronics,Laptop Stand,4,2011.0,0,0.0,8044.0,Credit Card,Delivered,2026-02-24,22:26:26,22,2026-02
+ORD-100258,CUST-7371,Kiaan Shanker,Bengaluru,Jharkhand,Beauty,Sunscreen SPF50,5,553.26,20,553.26,2213.04,Debit Card,Delivered,2026-02-14,07:54:32,7,2026-02
+ORD-100259,CUST-8589,Yatin Peri,Pune,Jharkhand,Clothing,Casual Sneakers,4,2378.92,5,475.78,9039.9,Debit Card,Processing,2026-02-15,04:32:19,4,2026-02
+ORD-100260,CUST-7307,Sudiksha Venkataraman,Jaipur,Telangana,Home & Kitchen,Steel Water Bottle,1,700.05,10,70.0,630.05,Net Banking,Delivered,2026-02-21,21:00:45,21,2026-02
+ORD-100261,CUST-2520,Om Bose,Visakhapatnam,Karnataka,Books,Self Help Book,2,363.34,20,145.34,581.34,Credit Card,Shipped,2026-02-19,18:34:43,18,2026-02
+ORD-100262,CUST-7288,Madhavi Singhal,Jaipur,West Bengal,Books,Fiction Novel,5,218.98,0,0.0,1094.9,Credit Card,Delivered,2026-03-06,14:07:14,14,2026-03
+ORD-100263,CUST-4524,Ronith Saha,Nagpur,Uttar Pradesh,Beauty,Shampoo 400ml,5,434.69,0,0.0,2173.45,Net Banking,Delivered,2026-02-18,20:24:09,20,2026-02
+ORD-100264,CUST-8317,Caleb Wable,Kolkata,Odisha,Books,Data Science Guide,3,878.61,0,0.0,2635.83,Net Banking,Processing,2026-02-12,14:16:16,14,2026-02
+ORD-100265,CUST-5376,Nitesh Thakkar,Mumbai,Bihar,Electronics,Bluetooth Speaker,5,4507.41,15,3380.56,19156.49,Debit Card,Delivered,2026-02-27,12:16:48,12,2026-02
+ORD-100266,CUST-2500,Tripti Venkatesh,Mumbai,Goa,Beauty,Sunscreen SPF50,3,437.78,0,0.0,1313.34,Debit Card,Delivered,2026-02-28,12:15:38,12,2026-02
+ORD-100267,CUST-1756,Yashodhara Krish,Chennai,Manipur,Electronics,Laptop Stand,3,1615.65,0,0.0,4846.95,UPI,Shipped,2026-02-18,11:23:34,11,2026-02
+ORD-100268,CUST-9943,Naveen Seth,Chennai,West Bengal,Home & Kitchen,Steel Water Bottle,2,323.11,10,64.62,581.6,Net Banking,Delivered,2026-03-07,23:53:54,23,2026-03
+ORD-100269,CUST-8346,Adya Kala,Mumbai,Uttar Pradesh,Books,Self Help Book,1,633.1,20,126.62,506.48,Cash on Delivery,Delivered,2026-02-08,07:43:04,7,2026-02
+ORD-100270,CUST-8998,Faras Srinivas,Pune,Arunachal Pradesh,Electronics,USB-C Charger,5,1020.36,0,0.0,5101.8,Debit Card,Delivered,2026-02-21,08:13:02,8,2026-02
+ORD-100271,CUST-6633,Mitali Shankar,Jaipur,Sikkim,Beauty,Shampoo 400ml,2,386.52,15,115.96,657.08,Debit Card,Delivered,2026-02-09,13:31:39,13,2026-02
+ORD-100272,CUST-3404,Dakshesh Jain,Bengaluru,Assam,Electronics,Phone Case,3,517.18,20,310.31,1241.23,Cash on Delivery,Delivered,2026-02-13,16:11:44,16,2026-02
+ORD-100273,CUST-1076,Devika Jain,Surat,Tripura,Electronics,Laptop Stand,3,1592.69,10,477.81,4300.26,Debit Card,Delivered,2026-03-05,18:59:10,18,2026-03
+ORD-100274,CUST-4074,Panini Sankar,Indore,Meghalaya,Clothing,Sports Shoes,1,3438.38,20,687.68,2750.7,Cash on Delivery,Cancelled,2026-02-08,13:05:53,13,2026-02
+ORD-100275,CUST-6857,Udant Chopra,Delhi,Odisha,Beauty,Sunscreen SPF50,3,790.88,0,0.0,2372.64,UPI,Delivered,2026-02-17,06:52:12,6,2026-02
+ORD-100276,CUST-5982,Kabir Thaman,Delhi,Uttar Pradesh,Books,Python Programming,3,671.75,0,0.0,2015.25,Cash on Delivery,Shipped,2026-02-21,22:30:30,22,2026-02
+ORD-100277,CUST-7842,Gunbir Kunda,Chennai,Meghalaya,Clothing,Denim Jeans,2,1686.12,0,0.0,3372.24,UPI,Cancelled,2026-03-04,16:24:46,16,2026-03
+ORD-100278,CUST-3563,Widisha Dalal,Kolkata,Assam,Clothing,Denim Jeans,4,1131.64,15,678.98,3847.58,Credit Card,Shipped,2026-02-19,14:22:35,14,2026-02
+ORD-100279,CUST-4143,Unnati Ratti,Mumbai,Rajasthan,Electronics,Bluetooth Speaker,3,5794.15,0,0.0,17382.45,Net Banking,Delivered,2026-02-14,10:31:24,10,2026-02
+ORD-100280,CUST-1886,Viraj Soni,Mumbai,Arunachal Pradesh,Home & Kitchen,Non-stick Pan,2,1758.3,20,703.32,2813.28,UPI,Delivered,2026-02-20,23:15:14,23,2026-02
+ORD-100281,CUST-6217,Pushti Kurian,Nagpur,Himachal Pradesh,Beauty,Lip Balm Pack,3,203.54,0,0.0,610.62,Debit Card,Shipped,2026-03-07,09:51:59,9,2026-03
+ORD-100282,CUST-7570,Radha Khurana,Nagpur,Arunachal Pradesh,Home & Kitchen,Non-stick Pan,1,849.8,0,0.0,849.8,Debit Card,Delivered,2026-02-15,14:15:27,14,2026-02
+ORD-100283,CUST-4456,Oeshi Bhatt,Pune,Haryana,Books,Fiction Novel,4,553.23,0,0.0,2212.92,UPI,Processing,2026-02-16,11:59:10,11,2026-02
+ORD-100284,CUST-4153,Wakeeta Devi,Surat,Manipur,Books,Self Help Book,1,590.61,0,0.0,590.61,Credit Card,Shipped,2026-02-24,23:58:40,23,2026-02
+ORD-100285,CUST-3583,Oviya Saxena,Nagpur,Uttarakhand,Beauty,Sunscreen SPF50,3,737.82,5,110.67,2102.79,Credit Card,Delivered,2026-03-06,19:36:12,19,2026-03
+ORD-100286,CUST-1422,Aditya Barman,Mumbai,West Bengal,Electronics,Phone Case,2,696.77,0,0.0,1393.54,Cash on Delivery,Delivered,2026-02-15,05:10:29,5,2026-02
+ORD-100287,CUST-4899,Warjas Maharaj,Surat,West Bengal,Electronics,USB-C Charger,3,669.01,5,100.35,1906.68,UPI,Processing,2026-02-27,18:45:40,18,2026-02
+ORD-100288,CUST-9790,Vaishnavi Dhawan,Indore,Tripura,Clothing,Sports Shoes,1,2790.85,0,0.0,2790.85,Debit Card,Cancelled,2026-03-02,09:33:37,9,2026-03
+ORD-100289,CUST-7802,Damini Mukhopadhyay,Lucknow,Haryana,Home & Kitchen,Non-stick Pan,3,1497.68,0,0.0,4493.04,Net Banking,Delivered,2026-02-28,22:57:29,22,2026-02
+ORD-100290,CUST-4762,Logan Parmar,Delhi,Haryana,Beauty,Face Moisturizer,3,577.68,0,0.0,1733.04,Credit Card,Processing,2026-03-03,05:53:35,5,2026-03
+ORD-100291,CUST-5121,Krish Chakraborty,Visakhapatnam,Punjab,Books,Fiction Novel,3,487.42,10,146.23,1316.03,Credit Card,Delivered,2026-03-08,02:08:18,2,2026-03
+ORD-100292,CUST-7082,Advika Narang,Bhopal,Maharashtra,Home & Kitchen,Steel Water Bottle,5,646.97,10,323.49,2911.36,Cash on Delivery,Cancelled,2026-03-01,22:05:45,22,2026-03
+ORD-100293,CUST-4096,Onveer Bhatia,Bengaluru,Arunachal Pradesh,Electronics,Webcam HD,3,4728.66,0,0.0,14185.98,UPI,Delivered,2026-02-13,07:28:02,7,2026-02
+ORD-100294,CUST-3675,Abhiram Tandon,Surat,Telangana,Beauty,Sunscreen SPF50,1,381.89,0,0.0,381.89,Debit Card,Shipped,2026-02-21,04:49:35,4,2026-02
+ORD-100295,CUST-1484,Hemal Hari,Mumbai,Uttarakhand,Home & Kitchen,Dinner Set,4,4426.6,15,2655.96,15050.44,UPI,Processing,2026-03-06,13:46:40,13,2026-03
+ORD-100296,CUST-1167,Pooja Narain,Pune,Gujarat,Books,Fiction Novel,4,382.26,10,152.9,1376.14,Cash on Delivery,Delivered,2026-02-21,07:09:23,7,2026-02
+ORD-100297,CUST-9515,Frederick Behl,Visakhapatnam,Nagaland,Electronics,Laptop Stand,4,1309.65,10,523.86,4714.74,Credit Card,Cancelled,2026-02-25,12:22:10,12,2026-02
+ORD-100298,CUST-3183,Om Kibe,Kolkata,Chhattisgarh,Beauty,Shampoo 400ml,4,656.98,0,0.0,2627.92,Debit Card,Delivered,2026-02-09,03:19:44,3,2026-02
+ORD-100299,CUST-4080,Nandini Atwal,Chennai,Rajasthan,Clothing,Women's Kurti,5,553.51,10,276.75,2490.8,Cash on Delivery,Delivered,2026-02-16,18:50:40,18,2026-02
+ORD-100300,CUST-1290,Chatura Nath,Indore,Sikkim,Home & Kitchen,Non-stick Pan,3,2333.52,20,1400.11,5600.45,Net Banking,Cancelled,2026-02-18,11:44:06,11,2026-02
+ORD-100301,CUST-2884,Eesha Thakur,Mumbai,Punjab,Clothing,Denim Jeans,1,2930.17,20,586.03,2344.14,UPI,Delivered,2026-02-17,03:31:31,3,2026-02
+ORD-100302,CUST-5211,Wahab Mukherjee,Jaipur,Tamil Nadu,Electronics,Bluetooth Speaker,4,2114.54,0,0.0,8458.16,Cash on Delivery,Shipped,2026-02-13,07:05:27,7,2026-02
+ORD-100303,CUST-4258,Ria Badami,Mumbai,Telangana,Home & Kitchen,Steel Water Bottle,5,770.02,20,770.02,3080.08,Debit Card,Processing,2026-02-09,20:30:44,20,2026-02
+ORD-100304,CUST-6205,Arya Majumdar,Indore,Kerala,Beauty,Face Moisturizer,2,678.84,10,135.77,1221.91,Debit Card,Cancelled,2026-03-06,16:16:21,16,2026-03
+ORD-100305,CUST-8007,Shivani Kumer,Pune,Uttar Pradesh,Home & Kitchen,Steel Water Bottle,3,684.64,0,0.0,2053.92,Debit Card,Delivered,2026-02-18,13:47:01,13,2026-02
+ORD-100306,CUST-3017,Hemal Bobal,Surat,Bihar,Electronics,Phone Case,3,758.04,20,454.82,1819.3,Net Banking,Processing,2026-02-16,09:03:27,9,2026-02
+ORD-100307,CUST-8363,Aradhana Rout,Indore,Uttarakhand,Home & Kitchen,Non-stick Pan,4,1211.37,0,0.0,4845.48,UPI,Processing,2026-02-08,03:13:16,3,2026-02
+ORD-100308,CUST-1273,David Cherian,Mumbai,Tamil Nadu,Home & Kitchen,Coffee Mug Set,2,816.32,15,244.9,1387.74,Credit Card,Shipped,2026-02-10,11:05:56,11,2026-02
+ORD-100309,CUST-1415,Hitesh Deep,Visakhapatnam,Jharkhand,Beauty,Face Moisturizer,1,875.44,15,131.32,744.12,Credit Card,Delivered,2026-02-23,03:23:39,3,2026-02
+ORD-100310,CUST-2993,Janya Rajagopalan,Indore,Andhra Pradesh,Beauty,Face Moisturizer,2,656.14,15,196.84,1115.44,Net Banking,Delivered,2026-02-12,05:36:07,5,2026-02
+ORD-100311,CUST-9776,Osha Tandon,Indore,Andhra Pradesh,Clothing,Denim Jeans,3,1402.57,0,0.0,4207.71,Credit Card,Shipped,2026-02-11,03:26:48,3,2026-02
+ORD-100312,CUST-4845,Yamini Tandon,Bhopal,Assam,Beauty,Sunscreen SPF50,2,687.13,20,274.85,1099.41,Debit Card,Cancelled,2026-02-08,05:44:49,5,2026-02
+ORD-100313,CUST-4710,Janya Narasimhan,Hyderabad,Andhra Pradesh,Beauty,Sunscreen SPF50,2,720.21,15,216.06,1224.36,UPI,Processing,2026-02-27,08:30:36,8,2026-02
+ORD-100314,CUST-2777,Gagan Bala,Mumbai,Himachal Pradesh,Books,Self Help Book,3,393.52,15,177.08,1003.48,Net Banking,Delivered,2026-02-14,21:50:28,21,2026-02
+ORD-100315,CUST-8470,Inaya Rege,Lucknow,Maharashtra,Beauty,Sunscreen SPF50,3,603.06,5,90.46,1718.72,Debit Card,Processing,2026-02-24,06:58:27,6,2026-02
+ORD-100316,CUST-1900,Thomas Sarin,Delhi,Mizoram,Clothing,Men's T-Shirt,4,560.83,0,0.0,2243.32,Debit Card,Delivered,2026-03-05,13:26:57,13,2026-03
+ORD-100317,CUST-4774,Eta Dar,Indore,Uttarakhand,Electronics,Phone Case,4,219.15,20,175.32,701.28,Net Banking,Delivered,2026-02-15,20:23:15,20,2026-02
+ORD-100318,CUST-2361,George Kumer,Chennai,Punjab,Clothing,Sports Shoes,2,5679.98,0,0.0,11359.96,UPI,Shipped,2026-02-21,10:11:53,10,2026-02
+ORD-100319,CUST-3181,Kashvi Chopra,Nagpur,Maharashtra,Home & Kitchen,Steel Water Bottle,3,300.73,15,135.33,766.86,Net Banking,Delivered,2026-02-27,01:24:51,1,2026-02
+ORD-100320,CUST-8347,Rohan Bajaj,Visakhapatnam,Uttarakhand,Beauty,Shampoo 400ml,1,354.42,5,17.72,336.7,Credit Card,Processing,2026-02-28,05:07:24,5,2026-02
+ORD-100321,CUST-4077,Nirja Yadav,Chennai,Himachal Pradesh,Books,Data Science Guide,4,587.88,15,352.73,1998.79,Cash on Delivery,Delivered,2026-02-08,18:28:44,18,2026-02
+ORD-100322,CUST-3848,Leena Sachdev,Indore,Telangana,Home & Kitchen,Steel Water Bottle,5,421.39,20,421.39,1685.56,UPI,Delivered,2026-03-05,08:05:21,8,2026-03
+ORD-100323,CUST-1776,Nidra Golla,Jaipur,Andhra Pradesh,Electronics,USB-C Charger,2,1055.21,5,105.52,2004.9,Debit Card,Processing,2026-02-28,05:16:36,5,2026-02
+ORD-100324,CUST-9603,Owen Nayak,Delhi,Andhra Pradesh,Books,Python Programming,4,590.04,20,472.03,1888.13,Credit Card,Processing,2026-02-07,15:22:57,15,2026-02
+ORD-100325,CUST-7242,Yadavi Sami,Pune,Nagaland,Beauty,Lip Balm Pack,3,343.85,15,154.73,876.82,Credit Card,Delivered,2026-03-01,22:31:58,22,2026-03
+ORD-100326,CUST-8190,Hemani Amble,Nagpur,Mizoram,Home & Kitchen,Dinner Set,2,2603.69,0,0.0,5207.38,Debit Card,Delivered,2026-02-10,17:20:07,17,2026-02
+ORD-100327,CUST-4673,Odika Agrawal,Visakhapatnam,Sikkim,Clothing,Sports Shoes,4,3278.09,5,655.62,12456.74,UPI,Delivered,2026-02-14,18:09:33,18,2026-02
+ORD-100328,CUST-9458,Arunima Rattan,Nagpur,Gujarat,Clothing,Casual Sneakers,2,2262.23,5,226.22,4298.24,UPI,Shipped,2026-02-18,20:04:12,20,2026-02
+ORD-100329,CUST-3613,Ekalinga Gopal,Bhopal,Assam,Clothing,Men's T-Shirt,4,676.7,0,0.0,2706.8,Debit Card,Shipped,2026-02-27,12:59:36,12,2026-02
+ORD-100330,CUST-3527,Chakradhar Dugar,Ahmedabad,Odisha,Books,Data Science Guide,5,915.87,10,457.94,4121.41,Cash on Delivery,Delivered,2026-02-24,22:18:19,22,2026-02
+ORD-100331,CUST-5691,Dhriti Chandran,Hyderabad,Uttar Pradesh,Books,Self Help Book,5,566.2,20,566.2,2264.8,Credit Card,Delivered,2026-02-26,07:33:38,7,2026-02
+ORD-100332,CUST-4772,Chaman Doctor,Lucknow,Uttarakhand,Electronics,Laptop Stand,5,1930.7,0,0.0,9653.5,Net Banking,Delivered,2026-03-09,03:23:47,3,2026-03
+ORD-100333,CUST-7702,Osha Morar,Surat,Tripura,Clothing,Men's T-Shirt,1,867.09,0,0.0,867.09,Credit Card,Shipped,2026-02-26,05:03:04,5,2026-02
+ORD-100334,CUST-2746,Upkaar Yohannan,Jaipur,Chhattisgarh,Beauty,Shampoo 400ml,3,583.92,10,175.18,1576.58,Net Banking,Shipped,2026-02-16,13:51:51,13,2026-02
+ORD-100335,CUST-4677,Mason Gandhi,Bengaluru,Manipur,Books,Data Science Guide,1,962.19,10,96.22,865.97,Debit Card,Processing,2026-02-08,03:49:28,3,2026-02
+ORD-100336,CUST-2506,Ayushman Gupta,Surat,Goa,Clothing,Denim Jeans,5,2582.03,20,2582.03,10328.12,Credit Card,Processing,2026-03-03,07:11:14,7,2026-03
+ORD-100337,CUST-3436,Varenya Jha,Indore,Goa,Beauty,Lip Balm Pack,5,382.41,5,95.6,1816.45,Net Banking,Processing,2026-02-27,08:12:02,8,2026-02
+ORD-100338,CUST-6289,Laban Dutta,Visakhapatnam,Kerala,Beauty,Sunscreen SPF50,3,871.11,5,130.67,2482.66,Net Banking,Delivered,2026-02-27,20:05:42,20,2026-02
+ORD-100339,CUST-6862,Aahana Pant,Pune,Jharkhand,Books,Python Programming,3,576.73,5,86.51,1643.68,Debit Card,Delivered,2026-02-25,19:13:21,19,2026-02
+ORD-100340,CUST-3566,Gopal Rastogi,Chennai,Uttarakhand,Electronics,Laptop Stand,2,1641.06,0,0.0,3282.12,Debit Card,Delivered,2026-02-15,22:26:10,22,2026-02
+ORD-100341,CUST-2556,Harrison Sen,Lucknow,Karnataka,Electronics,USB-C Charger,3,1094.63,20,656.78,2627.11,Debit Card,Delivered,2026-03-01,20:21:05,20,2026-03
+ORD-100342,CUST-1558,Ekani Shanker,Delhi,Gujarat,Clothing,Sports Shoes,4,3566.64,0,0.0,14266.56,Cash on Delivery,Shipped,2026-02-23,21:48:54,21,2026-02
+ORD-100343,CUST-6093,Hemani Mall,Lucknow,Madhya Pradesh,Clothing,Sports Shoes,1,3479.43,10,347.94,3131.49,Debit Card,Cancelled,2026-02-07,14:38:26,14,2026-02
+ORD-100344,CUST-4997,Ekavir Sani,Hyderabad,Uttar Pradesh,Books,Python Programming,1,431.01,15,64.65,366.36,Credit Card,Delivered,2026-02-14,08:04:49,8,2026-02
+ORD-100345,CUST-1400,Teerth Kaur,Delhi,Karnataka,Beauty,Face Moisturizer,1,997.53,20,199.51,798.02,Debit Card,Cancelled,2026-03-07,20:18:19,20,2026-03
+ORD-100346,CUST-2624,Ansh Balay,Bengaluru,Tamil Nadu,Home & Kitchen,Non-stick Pan,4,1968.14,5,393.63,7478.93,UPI,Shipped,2026-02-11,15:37:00,15,2026-02
+ORD-100347,CUST-8845,Odika Banerjee,Lucknow,Maharashtra,Beauty,Sunscreen SPF50,1,531.67,0,0.0,531.67,Net Banking,Processing,2026-03-09,09:36:41,9,2026-03
+ORD-100348,CUST-6096,Ria Sangha,Bhopal,Kerala,Beauty,Face Moisturizer,4,359.38,15,215.63,1221.89,Debit Card,Delivered,2026-02-14,12:04:00,12,2026-02
+ORD-100349,CUST-3705,Jacob Pathak,Nagpur,Manipur,Electronics,Wireless Earbuds,3,4522.81,0,0.0,13568.43,Debit Card,Cancelled,2026-03-07,18:43:33,18,2026-03
+ORD-100350,CUST-6863,Agastya Borra,Bengaluru,Bihar,Books,Python Programming,3,759.02,0,0.0,2277.06,Net Banking,Delivered,2026-03-04,23:40:38,23,2026-03
+ORD-100351,CUST-6153,Chakradhar Thakur,Chennai,Nagaland,Home & Kitchen,Coffee Mug Set,5,643.4,0,0.0,3217.0,Debit Card,Delivered,2026-02-17,15:32:52,15,2026-02
+ORD-100352,CUST-4285,Aryan Mohan,Lucknow,Madhya Pradesh,Clothing,Women's Kurti,2,529.42,5,52.94,1005.9,Net Banking,Shipped,2026-02-23,23:58:43,23,2026-02
+ORD-100353,CUST-2210,Karan Subramaniam,Chennai,Goa,Books,Python Programming,1,615.59,10,61.56,554.03,Net Banking,Delivered,2026-02-22,01:49:45,1,2026-02
+ORD-100354,CUST-4982,Hamsini Srivastava,Nagpur,Sikkim,Books,Data Science Guide,4,584.64,20,467.71,1870.85,Net Banking,Delivered,2026-03-01,19:52:47,19,2026-03
+ORD-100355,CUST-3918,Mekhala Yadav,Bengaluru,Sikkim,Books,Data Science Guide,5,966.68,0,0.0,4833.4,Net Banking,Delivered,2026-03-02,15:55:31,15,2026-03
+ORD-100356,CUST-7836,Januja Swamy,Jaipur,Meghalaya,Books,Fiction Novel,5,233.63,0,0.0,1168.15,Debit Card,Shipped,2026-03-06,10:44:30,10,2026-03
+ORD-100357,CUST-3595,Owen Patla,Pune,Andhra Pradesh,Beauty,Shampoo 400ml,3,290.07,20,174.04,696.17,Cash on Delivery,Delivered,2026-03-03,15:23:21,15,2026-03
+ORD-100358,CUST-4676,Kavya Din,Bengaluru,Tamil Nadu,Clothing,Men's T-Shirt,1,370.83,0,0.0,370.83,Credit Card,Delivered,2026-02-14,20:49:27,20,2026-02
+ORD-100359,CUST-2451,Indali Contractor,Bengaluru,West Bengal,Clothing,Denim Jeans,1,2493.86,0,0.0,2493.86,UPI,Shipped,2026-02-12,08:46:10,8,2026-02
+ORD-100360,CUST-3618,Noah Din,Delhi,Himachal Pradesh,Home & Kitchen,Steel Water Bottle,2,443.63,0,0.0,887.26,UPI,Delivered,2026-02-17,12:20:05,12,2026-02
+ORD-100361,CUST-8912,Bimala Ramaswamy,Bengaluru,Chhattisgarh,Books,Fiction Novel,2,555.55,0,0.0,1111.1,Debit Card,Shipped,2026-02-24,06:29:43,6,2026-02
+ORD-100362,CUST-2703,Lekha Bumb,Delhi,Manipur,Home & Kitchen,Air Fryer,4,5456.66,0,0.0,21826.64,Credit Card,Delivered,2026-02-27,15:15:27,15,2026-02
+ORD-100363,CUST-1150,Ayaan Balan,Nagpur,Tamil Nadu,Electronics,Phone Case,2,507.83,0,0.0,1015.66,Debit Card,Delivered,2026-02-09,08:54:09,8,2026-02
+ORD-100364,CUST-7787,Jacob Sura,Kolkata,Uttarakhand,Beauty,Lip Balm Pack,3,159.12,15,71.6,405.76,Debit Card,Delivered,2026-02-17,06:04:34,6,2026-02
+ORD-100365,CUST-3108,Praneel Swaminathan,Bhopal,Jharkhand,Beauty,Shampoo 400ml,5,448.79,0,0.0,2243.95,UPI,Cancelled,2026-02-22,00:45:45,0,2026-02
+ORD-100366,CUST-4714,Charita Mammen,Surat,Assam,Clothing,Women's Kurti,1,1639.6,15,245.94,1393.66,Net Banking,Delivered,2026-02-14,20:11:32,20,2026-02
+ORD-100367,CUST-9067,Chandran Devi,Hyderabad,Uttarakhand,Beauty,Lip Balm Pack,2,330.53,0,0.0,661.06,UPI,Delivered,2026-02-21,00:17:48,0,2026-02
+ORD-100368,CUST-4475,Zansi Kala,Visakhapatnam,Punjab,Electronics,Wireless Earbuds,5,2188.86,20,2188.86,8755.44,UPI,Delivered,2026-02-24,12:47:26,12,2026-02
+ORD-100369,CUST-9931,Neelima Pingle,Hyderabad,Jharkhand,Electronics,USB-C Charger,3,538.19,5,80.73,1533.84,Net Banking,Processing,2026-02-20,09:00:22,9,2026-02
+ORD-100370,CUST-3399,Yauvani Kulkarni,Kolkata,Maharashtra,Clothing,Women's Kurti,4,772.15,0,0.0,3088.6,Credit Card,Processing,2026-02-27,01:14:13,1,2026-02
+ORD-100371,CUST-4107,Dayita Kannan,Bengaluru,Punjab,Home & Kitchen,Coffee Mug Set,3,612.79,0,0.0,1838.37,Cash on Delivery,Delivered,2026-03-04,22:03:38,22,2026-03
+ORD-100372,CUST-3012,Amara Varughese,Surat,Odisha,Clothing,Men's T-Shirt,2,419.66,5,41.97,797.35,Debit Card,Delivered,2026-02-15,02:15:01,2,2026-02
+ORD-100373,CUST-7381,Amara Vala,Hyderabad,Manipur,Clothing,Women's Kurti,1,768.34,0,0.0,768.34,Debit Card,Cancelled,2026-02-11,23:22:05,23,2026-02
+ORD-100374,CUST-2640,Anika Khanna,Nagpur,Bihar,Books,Python Programming,2,546.41,15,163.92,928.9,Debit Card,Shipped,2026-02-11,14:14:15,14,2026-02
+ORD-100375,CUST-3378,Pranav Sathe,Delhi,Manipur,Electronics,Wireless Earbuds,5,1394.03,15,1045.52,5924.63,UPI,Delivered,2026-02-10,07:49:45,7,2026-02
+ORD-100376,CUST-4702,Arin Sarma,Hyderabad,Sikkim,Home & Kitchen,Steel Water Bottle,4,742.24,10,296.9,2672.06,UPI,Processing,2026-03-01,09:21:46,9,2026-03
+ORD-100377,CUST-5940,Ucchal Tank,Indore,Gujarat,Clothing,Casual Sneakers,3,3550.62,0,0.0,10651.86,Credit Card,Shipped,2026-02-09,22:41:40,22,2026-02
+ORD-100378,CUST-1155,Udarsh Gola,Chennai,Uttarakhand,Clothing,Men's T-Shirt,4,720.26,15,432.16,2448.88,Net Banking,Cancelled,2026-02-24,11:49:27,11,2026-02
+ORD-100379,CUST-5690,Yasti Ramakrishnan,Surat,Arunachal Pradesh,Electronics,Laptop Stand,5,1640.18,20,1640.18,6560.72,UPI,Processing,2026-02-08,18:43:18,18,2026-02
+ORD-100380,CUST-5709,Brijesh Batra,Visakhapatnam,Odisha,Electronics,Webcam HD,5,5877.07,20,5877.07,23508.28,Net Banking,Delivered,2026-02-09,07:45:01,7,2026-02
+ORD-100381,CUST-8064,Amaira Handa,Jaipur,Tripura,Beauty,Sunscreen SPF50,4,756.86,0,0.0,3027.44,Debit Card,Delivered,2026-02-22,05:07:25,5,2026-02
+ORD-100382,CUST-4763,Krishna Chaudhary,Chennai,Assam,Beauty,Lip Balm Pack,1,345.97,0,0.0,345.97,Net Banking,Delivered,2026-02-18,07:13:57,7,2026-02
+ORD-100383,CUST-4586,Gaurika Palan,Jaipur,Chhattisgarh,Home & Kitchen,Air Fryer,2,6011.12,10,1202.22,10820.02,Net Banking,Delivered,2026-02-14,20:17:08,20,2026-02
+ORD-100384,CUST-1980,Rachit Thaker,Bengaluru,Assam,Clothing,Women's Kurti,3,624.62,20,374.77,1499.09,UPI,Shipped,2026-03-05,00:55:38,0,2026-03
+ORD-100385,CUST-1555,Lopa Varughese,Ahmedabad,Assam,Electronics,Phone Case,4,512.63,5,102.53,1947.99,Cash on Delivery,Processing,2026-02-18,15:55:10,15,2026-02
+ORD-100386,CUST-6875,Raksha Sekhon,Ahmedabad,Bihar,Home & Kitchen,Coffee Mug Set,4,997.14,10,398.86,3589.7,Credit Card,Cancelled,2026-02-13,21:16:34,21,2026-02
+ORD-100387,CUST-5984,Lohit Anne,Indore,Arunachal Pradesh,Books,Fiction Novel,4,289.01,15,173.41,982.63,Net Banking,Delivered,2026-02-15,03:11:52,3,2026-02
+ORD-100388,CUST-5537,Yashodhara Kohli,Ahmedabad,Tamil Nadu,Books,Self Help Book,1,334.25,0,0.0,334.25,Credit Card,Cancelled,2026-02-28,08:53:52,8,2026-02
+ORD-100389,CUST-6665,Yasti Grover,Bhopal,Kerala,Home & Kitchen,Air Fryer,4,6104.85,20,4883.88,19535.52,UPI,Delivered,2026-02-22,02:29:29,2,2026-02
+ORD-100390,CUST-5613,Henry Lall,Jaipur,Andhra Pradesh,Beauty,Lip Balm Pack,5,241.45,0,0.0,1207.25,Cash on Delivery,Processing,2026-03-07,14:12:23,14,2026-03
+ORD-100391,CUST-4639,Yahvi Raju,Lucknow,Punjab,Home & Kitchen,Non-stick Pan,2,1986.85,0,0.0,3973.7,Net Banking,Delivered,2026-02-22,15:34:42,15,2026-02
+ORD-100392,CUST-8540,Watika Kumer,Chennai,Assam,Books,Data Science Guide,3,885.48,15,398.47,2257.97,Cash on Delivery,Cancelled,2026-02-23,09:57:56,9,2026-02
+ORD-100393,CUST-6984,Vamakshi Peri,Kolkata,Maharashtra,Electronics,Wireless Earbuds,3,4224.78,0,0.0,12674.34,Net Banking,Cancelled,2026-02-12,14:02:44,14,2026-02
+ORD-100394,CUST-4363,Zinal Gola,Pune,Goa,Books,Self Help Book,4,469.92,20,375.94,1503.74,Cash on Delivery,Delivered,2026-03-08,21:44:45,21,2026-03
+ORD-100395,CUST-5622,Ayushman Parekh,Pune,Madhya Pradesh,Beauty,Sunscreen SPF50,1,502.72,0,0.0,502.72,Credit Card,Delivered,2026-02-27,23:30:33,23,2026-02
+ORD-100396,CUST-1637,Chatresh Mittal,Lucknow,West Bengal,Beauty,Lip Balm Pack,4,175.0,0,0.0,700.0,Debit Card,Delivered,2026-02-20,03:03:38,3,2026-02
+ORD-100397,CUST-5637,Dipta Kumer,Delhi,Arunachal Pradesh,Electronics,Phone Case,2,635.09,0,0.0,1270.18,UPI,Delivered,2026-03-05,18:08:13,18,2026-03
+ORD-100398,CUST-2606,Dhriti Pandey,Ahmedabad,Meghalaya,Books,Python Programming,5,745.33,0,0.0,3726.65,Credit Card,Delivered,2026-02-08,09:51:21,9,2026-02
+ORD-100399,CUST-4189,Brinda Merchant,Surat,Arunachal Pradesh,Home & Kitchen,Non-stick Pan,5,2434.39,0,0.0,12171.95,Debit Card,Delivered,2026-02-08,16:03:18,16,2026-02
+ORD-100400,CUST-6068,Mekhala Dugar,Indore,Andhra Pradesh,Electronics,Webcam HD,5,2200.81,0,0.0,11004.05,UPI,Shipped,2026-03-06,04:47:25,4,2026-03
+ORD-100401,CUST-3636,Dakshesh Jani,Delhi,Chhattisgarh,Electronics,Bluetooth Speaker,4,1891.54,15,1134.92,6431.24,UPI,Delivered,2026-02-24,21:36:59,21,2026-02
+ORD-100402,CUST-8337,Samar Bumb,Lucknow,West Bengal,Books,Fiction Novel,1,353.06,15,52.96,300.1,Credit Card,Processing,2026-02-22,07:30:32,7,2026-02
+ORD-100403,CUST-3996,Jeevika Nadig,Chennai,Manipur,Electronics,Wireless Earbuds,1,4713.22,0,0.0,4713.22,UPI,Shipped,2026-02-25,15:16:37,15,2026-02
+ORD-100404,CUST-4215,Pushti Venkatesh,Kolkata,Sikkim,Electronics,Phone Case,4,279.29,10,111.72,1005.44,UPI,Processing,2026-03-02,20:34:26,20,2026-03
+ORD-100405,CUST-6016,Azaan Bhandari,Mumbai,Jharkhand,Beauty,Shampoo 400ml,2,652.76,10,130.55,1174.97,Net Banking,Cancelled,2026-02-10,08:39:40,8,2026-02
+ORD-100406,CUST-3969,Lekha Tripathi,Nagpur,Meghalaya,Home & Kitchen,Air Fryer,1,3755.4,0,0.0,3755.4,Net Banking,Shipped,2026-02-22,17:47:40,17,2026-02
+ORD-100407,CUST-6230,Arya More,Kolkata,Kerala,Beauty,Sunscreen SPF50,3,384.07,5,57.61,1094.6,UPI,Shipped,2026-02-15,14:17:53,14,2026-02
+ORD-100408,CUST-1853,Dalbir Hegde,Hyderabad,Kerala,Electronics,Wireless Earbuds,1,2305.44,20,461.09,1844.35,Cash on Delivery,Shipped,2026-02-13,01:08:44,1,2026-02
+ORD-100409,CUST-3605,Samaksh Toor,Nagpur,Maharashtra,Clothing,Women's Kurti,5,1783.89,15,1337.92,7581.53,Debit Card,Delivered,2026-03-06,23:57:02,23,2026-03
+ORD-100410,CUST-8995,Tarak Nagy,Lucknow,Haryana,Books,Self Help Book,2,562.97,0,0.0,1125.94,Debit Card,Cancelled,2026-02-20,15:16:13,15,2026-02
+ORD-100411,CUST-3329,Bhanumati Chakraborty,Mumbai,Rajasthan,Electronics,Webcam HD,1,4595.89,0,0.0,4595.89,Credit Card,Processing,2026-02-08,19:51:24,19,2026-02
+ORD-100412,CUST-6970,Chaaya Dhingra,Indore,Sikkim,Beauty,Shampoo 400ml,3,535.98,0,0.0,1607.94,Debit Card,Delivered,2026-03-06,14:01:23,14,2026-03
+ORD-100413,CUST-6521,Xavier Ahuja,Bengaluru,Himachal Pradesh,Books,Fiction Novel,1,318.02,0,0.0,318.02,UPI,Processing,2026-03-04,22:25:45,22,2026-03
+ORD-100414,CUST-8004,Garima Luthra,Bengaluru,Gujarat,Clothing,Sports Shoes,5,3771.39,0,0.0,18856.95,UPI,Delivered,2026-03-07,17:36:06,17,2026-03
+ORD-100415,CUST-8203,Aarush Chakrabarti,Pune,Bihar,Home & Kitchen,Air Fryer,5,4711.51,15,3533.63,20023.92,UPI,Delivered,2026-02-22,21:51:22,21,2026-02
+ORD-100416,CUST-6811,Ranbir Sharaf,Nagpur,Madhya Pradesh,Books,Self Help Book,4,478.08,15,286.85,1625.47,UPI,Shipped,2026-03-01,05:50:26,5,2026-03
+ORD-100417,CUST-1783,Amol Narasimhan,Hyderabad,Chhattisgarh,Electronics,Webcam HD,3,3447.63,10,1034.29,9308.6,Debit Card,Delivered,2026-02-20,05:39:11,5,2026-02
+ORD-100418,CUST-8768,Yoshita Balay,Kolkata,Uttarakhand,Home & Kitchen,Dinner Set,3,3575.76,20,2145.46,8581.82,Net Banking,Delivered,2026-03-08,10:21:58,10,2026-03
+ORD-100419,CUST-4097,Sathvik Guha,Jaipur,Karnataka,Books,Python Programming,4,434.48,0,0.0,1737.92,Debit Card,Delivered,2026-02-08,17:20:49,17,2026-02
+ORD-100420,CUST-8871,Kavya Bakshi,Visakhapatnam,Tamil Nadu,Books,Python Programming,2,510.02,15,153.01,867.03,Net Banking,Delivered,2026-02-26,00:51:13,0,2026-02
+ORD-100421,CUST-4559,Nimrat Sura,Surat,Telangana,Books,Python Programming,4,644.09,0,0.0,2576.36,Net Banking,Shipped,2026-03-06,05:08:29,5,2026-03
+ORD-100422,CUST-2884,Neha Kumar,Hyderabad,Tripura,Electronics,Phone Case,2,659.47,0,0.0,1318.94,Net Banking,Delivered,2026-02-08,20:29:03,20,2026-02
+ORD-100423,CUST-7923,Ryan Dass,Chennai,Assam,Beauty,Face Moisturizer,3,908.92,5,136.34,2590.42,Debit Card,Delivered,2026-03-04,21:51:38,21,2026-03
+ORD-100424,CUST-7280,Dalbir Thaman,Visakhapatnam,Goa,Books,Python Programming,5,593.22,0,0.0,2966.1,Cash on Delivery,Cancelled,2026-03-01,10:15:08,10,2026-03
+ORD-100425,CUST-7895,Bakhshi Zachariah,Kolkata,Odisha,Home & Kitchen,Dinner Set,5,4305.68,15,3229.26,18299.14,Net Banking,Delivered,2026-02-08,00:58:20,0,2026-02
+ORD-100426,CUST-5980,Ridhi Raghavan,Chennai,West Bengal,Books,Python Programming,1,715.36,0,0.0,715.36,Debit Card,Cancelled,2026-02-16,23:40:04,23,2026-02
+ORD-100427,CUST-1988,Maanav Ramesh,Bengaluru,Tripura,Home & Kitchen,Coffee Mug Set,1,885.32,10,88.53,796.79,UPI,Cancelled,2026-03-02,12:41:39,12,2026-03
+ORD-100428,CUST-7547,Wishi Raju,Lucknow,Gujarat,Beauty,Lip Balm Pack,5,195.33,5,48.83,927.82,Credit Card,Processing,2026-03-05,04:39:28,4,2026-03
+ORD-100429,CUST-9168,Girish Narain,Indore,Arunachal Pradesh,Beauty,Shampoo 400ml,2,430.17,0,0.0,860.34,Debit Card,Delivered,2026-02-10,05:38:03,5,2026-02
+ORD-100430,CUST-5564,Mahika Nayar,Pune,Karnataka,Clothing,Men's T-Shirt,2,874.99,0,0.0,1749.98,Cash on Delivery,Delivered,2026-02-17,05:19:41,5,2026-02
+ORD-100431,CUST-6894,Janya Balay,Pune,Telangana,Beauty,Sunscreen SPF50,4,635.47,0,0.0,2541.88,Credit Card,Shipped,2026-02-13,16:34:56,16,2026-02
+ORD-100432,CUST-6658,Krisha Keer,Bhopal,Maharashtra,Clothing,Men's T-Shirt,1,732.26,0,0.0,732.26,Debit Card,Processing,2026-03-04,14:12:38,14,2026-03
+ORD-100433,CUST-6668,Neha Vig,Mumbai,Odisha,Clothing,Denim Jeans,3,3369.91,10,1010.97,9098.76,Credit Card,Delivered,2026-02-08,02:50:30,2,2026-02
+ORD-100434,CUST-6818,Baljiwan Talwar,Delhi,Manipur,Home & Kitchen,Non-stick Pan,2,1928.21,5,192.82,3663.6,Cash on Delivery,Delivered,2026-02-26,03:42:17,3,2026-02
+ORD-100435,CUST-6075,Vedika Raval,Mumbai,Telangana,Electronics,USB-C Charger,3,1469.97,0,0.0,4409.91,Debit Card,Shipped,2026-03-08,23:42:06,23,2026-03
+ORD-100436,CUST-1895,Ganga Chad,Indore,Uttarakhand,Clothing,Casual Sneakers,3,2963.18,10,888.95,8000.59,UPI,Delivered,2026-03-08,05:10:29,5,2026-03
+ORD-100437,CUST-5189,Neha Sundaram,Pune,Bihar,Clothing,Casual Sneakers,5,3931.91,10,1965.95,17693.6,Net Banking,Delivered,2026-02-13,20:09:21,20,2026-02
+ORD-100438,CUST-9660,Yagnesh Gera,Lucknow,Meghalaya,Electronics,Wireless Earbuds,4,4891.53,10,1956.61,17609.51,Debit Card,Delivered,2026-02-17,15:57:22,15,2026-02
+ORD-100439,CUST-8518,Dayita Krish,Surat,Kerala,Home & Kitchen,Coffee Mug Set,3,833.31,10,249.99,2249.94,Credit Card,Processing,2026-03-01,14:12:25,14,2026-03
+ORD-100440,CUST-7944,Tanay Jain,Surat,Andhra Pradesh,Books,Self Help Book,1,479.64,0,0.0,479.64,Debit Card,Processing,2026-02-23,08:03:50,8,2026-02
+ORD-100441,CUST-6264,Saumya Kota,Ahmedabad,Gujarat,Electronics,Wireless Earbuds,1,2812.04,15,421.81,2390.23,Net Banking,Processing,2026-02-18,08:30:10,8,2026-02
+ORD-100442,CUST-8035,Chakradhar Barman,Ahmedabad,Odisha,Electronics,Phone Case,2,384.83,20,153.93,615.73,Net Banking,Processing,2026-02-13,15:40:02,15,2026-02
+ORD-100443,CUST-4454,Jasmit Kapoor,Visakhapatnam,Manipur,Electronics,Wireless Earbuds,4,4388.89,5,877.78,16677.78,UPI,Delivered,2026-02-14,13:45:05,13,2026-02
+ORD-100444,CUST-1915,Bhavika Sengupta,Jaipur,Jharkhand,Clothing,Women's Kurti,3,1081.41,0,0.0,3244.23,Net Banking,Shipped,2026-03-07,23:09:00,23,2026-03
+ORD-100445,CUST-7787,Anvi Muni,Ahmedabad,Arunachal Pradesh,Books,Self Help Book,1,546.55,10,54.66,491.89,Debit Card,Shipped,2026-02-12,16:21:49,16,2026-02
+ORD-100446,CUST-9863,Unni Narayanan,Hyderabad,Madhya Pradesh,Home & Kitchen,Non-stick Pan,1,1699.38,0,0.0,1699.38,Debit Card,Delivered,2026-02-12,21:11:07,21,2026-02
+ORD-100447,CUST-4519,Diya Aurora,Jaipur,Punjab,Books,Fiction Novel,1,223.31,10,22.33,200.98,Credit Card,Delivered,2026-02-11,18:31:51,18,2026-02
+ORD-100448,CUST-1875,Vasana Lad,Kolkata,Himachal Pradesh,Clothing,Casual Sneakers,3,2081.31,20,1248.79,4995.14,Net Banking,Delivered,2026-02-16,14:42:01,14,2026-02
+ORD-100449,CUST-6711,Vritti Sachdev,Bhopal,Himachal Pradesh,Home & Kitchen,Steel Water Bottle,2,397.86,20,159.14,636.58,Credit Card,Delivered,2026-02-18,17:34:10,17,2026-02
+ORD-100450,CUST-4294,Pratyush Varkey,Delhi,Telangana,Home & Kitchen,Coffee Mug Set,3,733.28,20,439.97,1759.87,UPI,Cancelled,2026-02-14,01:13:58,1,2026-02
+ORD-100451,CUST-5931,Saanvi Ben,Delhi,Bihar,Beauty,Face Moisturizer,2,535.01,0,0.0,1070.02,Debit Card,Shipped,2026-02-14,15:43:53,15,2026-02
+ORD-100452,CUST-9134,Samar Chander,Visakhapatnam,Haryana,Beauty,Lip Balm Pack,1,374.78,5,18.74,356.04,UPI,Delivered,2026-02-11,01:16:39,1,2026-02
+ORD-100453,CUST-1558,Wazir Jani,Lucknow,Karnataka,Clothing,Women's Kurti,5,996.56,5,249.14,4733.66,Credit Card,Cancelled,2026-02-27,13:23:31,13,2026-02
+ORD-100454,CUST-1911,Oviya Prakash,Surat,Madhya Pradesh,Electronics,Laptop Stand,2,2232.15,0,0.0,4464.3,Debit Card,Delivered,2026-02-10,09:14:48,9,2026-02
+ORD-100455,CUST-3389,Qushi Karnik,Pune,Tripura,Books,Data Science Guide,4,792.12,0,0.0,3168.48,Cash on Delivery,Processing,2026-02-15,13:12:35,13,2026-02
+ORD-100456,CUST-1910,Benjamin Mandal,Nagpur,Tripura,Home & Kitchen,Steel Water Bottle,1,387.75,5,19.39,368.36,Net Banking,Delivered,2026-02-18,15:11:11,15,2026-02
+ORD-100457,CUST-7721,Chavvi Narayan,Surat,Punjab,Books,Fiction Novel,1,573.94,15,86.09,487.85,Debit Card,Cancelled,2026-03-09,05:24:03,5,2026-03
+ORD-100458,CUST-7514,Vaishnavi Gola,Bengaluru,Haryana,Books,Data Science Guide,3,638.52,15,287.33,1628.23,Debit Card,Delivered,2026-02-12,06:41:30,6,2026-02
+ORD-100459,CUST-4616,Kevin Buch,Visakhapatnam,Bihar,Home & Kitchen,Coffee Mug Set,3,628.76,15,282.94,1603.34,Debit Card,Delivered,2026-02-25,01:56:10,1,2026-02
+ORD-100460,CUST-7846,Quincy Natt,Hyderabad,Himachal Pradesh,Beauty,Face Moisturizer,5,971.49,0,0.0,4857.45,Debit Card,Delivered,2026-02-19,12:20:24,12,2026-02
+ORD-100461,CUST-5109,Rachit Rajan,Chennai,Kerala,Home & Kitchen,Coffee Mug Set,2,861.78,10,172.36,1551.2,Cash on Delivery,Processing,2026-02-18,01:44:43,1,2026-02
+ORD-100462,CUST-7335,Elijah Sahni,Indore,Jharkhand,Clothing,Sports Shoes,1,5554.14,10,555.41,4998.73,Cash on Delivery,Delivered,2026-02-14,14:24:21,14,2026-02
+ORD-100463,CUST-6461,Abhimanyu Taneja,Nagpur,Uttar Pradesh,Electronics,Webcam HD,4,2205.91,5,441.18,8382.46,Net Banking,Cancelled,2026-02-16,23:25:37,23,2026-02
+ORD-100464,CUST-7108,Aadhya Shanker,Nagpur,Assam,Electronics,Phone Case,4,341.51,10,136.6,1229.44,Cash on Delivery,Delivered,2026-03-06,23:54:48,23,2026-03
+ORD-100465,CUST-2976,Chatresh Lalla,Jaipur,Punjab,Electronics,USB-C Charger,5,1420.02,0,0.0,7100.1,Debit Card,Processing,2026-03-04,15:55:52,15,2026-03
+ORD-100466,CUST-8204,Samesh Mistry,Surat,Uttarakhand,Books,Python Programming,4,442.01,0,0.0,1768.04,Net Banking,Processing,2026-02-23,07:01:31,7,2026-02
+ORD-100467,CUST-5627,Max Borde,Jaipur,Goa,Clothing,Denim Jeans,3,2513.42,0,0.0,7540.26,UPI,Delivered,2026-02-16,05:15:09,5,2026-02
+ORD-100468,CUST-3365,Dipta Atwal,Kolkata,Haryana,Books,Self Help Book,4,595.97,20,476.78,1907.1,Debit Card,Cancelled,2026-03-08,00:30:51,0,2026-03
+ORD-100469,CUST-2701,Bakhshi Devan,Kolkata,Punjab,Electronics,USB-C Charger,2,877.77,0,0.0,1755.54,UPI,Delivered,2026-03-02,06:40:21,6,2026-03
+ORD-100470,CUST-2554,Imaran Sibal,Delhi,Assam,Beauty,Sunscreen SPF50,2,309.55,5,30.95,588.15,Net Banking,Delivered,2026-02-27,11:12:10,11,2026-02
+ORD-100471,CUST-5786,Prisha Sarkar,Bhopal,Karnataka,Home & Kitchen,Non-stick Pan,5,1718.82,0,0.0,8594.1,Debit Card,Shipped,2026-03-02,01:57:14,1,2026-03
+ORD-100472,CUST-4736,Onkar Sethi,Kolkata,Karnataka,Books,Self Help Book,4,560.39,0,0.0,2241.56,Cash on Delivery,Delivered,2026-02-21,01:01:04,1,2026-02
+ORD-100473,CUST-5736,Liam Deo,Lucknow,Tamil Nadu,Beauty,Lip Balm Pack,3,341.71,0,0.0,1025.13,Credit Card,Shipped,2026-02-22,08:46:56,8,2026-02
+ORD-100474,CUST-2420,Anjali Prabhakar,Kolkata,Assam,Books,Data Science Guide,1,670.4,15,100.56,569.84,Cash on Delivery,Delivered,2026-03-07,09:45:18,9,2026-03
+ORD-100475,CUST-5193,Vedant Malhotra,Visakhapatnam,Goa,Electronics,Laptop Stand,2,2258.37,0,0.0,4516.74,Net Banking,Processing,2026-02-14,15:32:01,15,2026-02
+ORD-100476,CUST-7136,Yachana Oza,Lucknow,Himachal Pradesh,Home & Kitchen,Coffee Mug Set,4,550.64,0,0.0,2202.56,Cash on Delivery,Processing,2026-02-15,00:16:09,0,2026-02
+ORD-100477,CUST-8591,Farhan Soman,Bhopal,Madhya Pradesh,Beauty,Lip Balm Pack,4,173.65,0,0.0,694.6,Debit Card,Delivered,2026-03-01,03:44:09,3,2026-03
+ORD-100478,CUST-2393,Garima Boase,Jaipur,Manipur,Clothing,Men's T-Shirt,1,788.14,10,78.81,709.33,Net Banking,Delivered,2026-02-18,11:46:50,11,2026-02
+ORD-100479,CUST-4840,Leela Dubey,Hyderabad,Goa,Beauty,Shampoo 400ml,4,463.71,10,185.48,1669.36,Credit Card,Delivered,2026-02-11,03:30:33,3,2026-02
+ORD-100480,CUST-7347,Thomas Rama,Indore,Odisha,Beauty,Lip Balm Pack,1,373.54,10,37.35,336.19,Net Banking,Cancelled,2026-03-04,04:04:14,4,2026-03
+ORD-100481,CUST-4712,Bhavini Bava,Bhopal,Nagaland,Clothing,Women's Kurti,4,1266.59,0,0.0,5066.36,Debit Card,Delivered,2026-03-01,20:38:11,20,2026-03
+ORD-100482,CUST-5024,Peter Zacharia,Nagpur,Uttarakhand,Clothing,Women's Kurti,1,1665.24,20,333.05,1332.19,Debit Card,Shipped,2026-02-10,00:18:39,0,2026-02
+ORD-100483,CUST-1589,Forum Bhakta,Visakhapatnam,Mizoram,Books,Self Help Book,5,397.78,0,0.0,1988.9,Debit Card,Delivered,2026-03-06,01:08:27,1,2026-03
+ORD-100484,CUST-6159,Chatresh Gupta,Bhopal,Mizoram,Home & Kitchen,Dinner Set,1,2622.75,0,0.0,2622.75,Cash on Delivery,Processing,2026-02-26,04:27:16,4,2026-02
+ORD-100485,CUST-4212,Yashvi Chad,Delhi,Haryana,Clothing,Women's Kurti,1,1360.8,20,272.16,1088.64,Net Banking,Processing,2026-02-13,02:38:18,2,2026-02
+ORD-100486,CUST-7392,Qarin Chatterjee,Surat,Punjab,Books,Python Programming,4,547.27,0,0.0,2189.08,Debit Card,Processing,2026-02-08,07:56:10,7,2026-02
+ORD-100487,CUST-4402,Rajata Rout,Bhopal,Haryana,Clothing,Sports Shoes,2,3653.46,0,0.0,7306.92,Cash on Delivery,Delivered,2026-02-24,19:39:35,19,2026-02
+ORD-100488,CUST-7893,Girindra Pillai,Surat,Himachal Pradesh,Electronics,USB-C Charger,5,980.72,15,735.54,4168.06,Credit Card,Delivered,2026-03-05,15:09:41,15,2026-03
+ORD-100489,CUST-4425,Unni Majumdar,Lucknow,Mizoram,Home & Kitchen,Dinner Set,2,4600.77,0,0.0,9201.54,UPI,Delivered,2026-02-15,12:52:34,12,2026-02
+ORD-100490,CUST-1625,Brinda Krishna,Nagpur,Rajasthan,Beauty,Shampoo 400ml,2,460.78,0,0.0,921.56,Cash on Delivery,Shipped,2026-02-17,06:43:31,6,2026-02
+ORD-100491,CUST-1817,Eshana Dyal,Delhi,Jharkhand,Beauty,Lip Balm Pack,1,354.35,15,53.15,301.2,Debit Card,Processing,2026-02-23,09:02:29,9,2026-02
+ORD-100492,CUST-8968,Ishani Dyal,Ahmedabad,Kerala,Home & Kitchen,Coffee Mug Set,3,617.91,0,0.0,1853.73,Debit Card,Delivered,2026-02-11,07:44:57,7,2026-02
+ORD-100493,CUST-5076,Kashvi Lad,Kolkata,Goa,Electronics,Phone Case,4,432.12,0,0.0,1728.48,UPI,Delivered,2026-02-25,01:01:38,1,2026-02
+ORD-100494,CUST-7839,Gunbir Dhawan,Jaipur,Madhya Pradesh,Clothing,Sports Shoes,2,3071.25,0,0.0,6142.5,Debit Card,Delivered,2026-02-19,21:21:26,21,2026-02
+ORD-100495,CUST-4746,Veda Karan,Lucknow,Punjab,Clothing,Denim Jeans,4,1420.93,0,0.0,5683.72,Credit Card,Delivered,2026-03-08,21:54:58,21,2026-03
+ORD-100496,CUST-9584,Garima Hora,Lucknow,Meghalaya,Electronics,Laptop Stand,3,1649.19,0,0.0,4947.57,Cash on Delivery,Cancelled,2026-02-21,08:37:24,8,2026-02
+ORD-100497,CUST-8952,Urishilla Dube,Jaipur,Goa,Home & Kitchen,Air Fryer,5,5017.77,10,2508.89,22579.96,Net Banking,Delivered,2026-02-09,10:14:21,10,2026-02
+ORD-100498,CUST-5409,Vaishnavi Arya,Mumbai,Karnataka,Beauty,Shampoo 400ml,1,616.84,20,123.37,493.47,Credit Card,Delivered,2026-02-27,06:15:49,6,2026-02
+ORD-100499,CUST-3753,Chameli Kaul,Nagpur,Rajasthan,Books,Data Science Guide,1,943.46,15,141.52,801.94,Net Banking,Delivered,2026-03-04,21:44:02,21,2026-03
